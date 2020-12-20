@@ -65,6 +65,7 @@ slickdeals.net##.sdModalOverlay
 slickdeals.net##.topCategoriesModule
 slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.valentinesDay
+twitter.com###layers
 twitter.com##[data-focusable="true"]:has-text(/Promoted/)
 twitter.com##[data-testid="trend"]:has-text(/Promoted/):xpath(..)
 twitter.com##[data-testid="tweet"]:has-text(/Promoted/)
