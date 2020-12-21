@@ -31,41 +31,37 @@ reddit.com##._1vYrJH5uc57mZQJPN4l34E
 reddit.com##._2UMQXLQOtNVy_JO9ghou6
 reddit.com#?#div.promotedlink
 redpocket.com##.navbar
-slickdeals.net###featureDealsAndCoupons
-slickdeals.net###featuredPopularWidget
-slickdeals.net###fpNewsAndArticles
-slickdeals.net###personalizedWidget
-slickdeals.net###popularDealsRcm-ContentModule
-slickdeals.net###primeDayFpTile
-slickdeals.net###sideColumn
-slickdeals.net###subscribe
-slickdeals.net##.ad, .showThreadAd
-slickdeals.net##.announcementBar, .v1
-slickdeals.net##.articleFPModule
-slickdeals.net##.backToSchool, .seasonalBanner
-slickdeals.net##.bp-c-contentListModule, .bp-c-contentModule, .js-contentModule, .bp-c-panel
-slickdeals.net##.bp-c-pageBanner, .bp-c-pageEntrypointBanner, .bp-c-pageEntrypointBanner--reverse, .bp-c-pageBanner--imageBackground
+slickdeals.net##.aff
+slickdeals.net##.announcementBar
+slickdeals.net##.bestCouponsSection
 slickdeals.net##.bp-c-panel_header
-slickdeals.net##.bp-p-questionAndAnswer
-slickdeals.net##.buttonContainer, .theBigGame
-slickdeals.net##.buttonUnstyled, .countdownBanner, .blackFriday
+slickdeals.net##.bp-p-extensionPromoCard
+slickdeals.net##.bp-p-seoStoreContent_section
+slickdeals.net##.featureDealsAndCoupons
+slickdeals.net##.featuredPopularWidget
+slickdeals.net##.fpNewsAndArticles
+slickdeals.net##.has-extra-post
 slickdeals.net##.linkWidgetCarousel
-slickdeals.net##.mobileAd
-slickdeals.net##.mobileAdFluid
-slickdeals.net##.modal, .modal-modern
+slickdeals.net##.modal
+slickdeals.net##.modal-modern
 slickdeals.net##.newsAndArticlesModule
-slickdeals.net##.omegaBanner
-slickdeals.net##.openAppBar
-slickdeals.net##.personalizedRecommendedWidget
+slickdeals.net##.newsletterSignUp
 slickdeals.net##.personalizedWidget
-slickdeals.net##.placementDealTile, .sears, .v3
-slickdeals.net##.primeDayBanner
-slickdeals.net##.relatedDeals, .relatedCategory, .showTopLine, .moreDeals
-slickdeals.net##.relatedDealsRCM, .carouselTiles
+slickdeals.net##.popularCategories
+slickdeals.net##.popularStores
+slickdeals.net##.posts-list
+slickdeals.net##.recommendedDealAlertsSection
+slickdeals.net##.relatedCategoriesWidget
+slickdeals.net##.relatedDeals
+slickdeals.net##.relatedDealsRCM
 slickdeals.net##.sdModalOverlay
+slickdeals.net##.seoLinkWidget
+slickdeals.net##.smallgridDeals
+slickdeals.net##.stickyRightRailWrapper
 slickdeals.net##.topCategoriesModule
 slickdeals.net##.topCouponAndPromoCodesModule
-slickdeals.net##.valentinesDay
+slickdeals.net##.viewMoreStores
+slickdeals.net##.widget
 twitter.com###layers
 twitter.com##[data-focusable="true"]:has-text(/Promoted/)
 twitter.com##[data-testid="trend"]:has-text(/Promoted/):xpath(..)
