@@ -52,6 +52,7 @@ slickdeals.net##.buttonUnstyled, .countdownBanner, .blackFriday
 slickdeals.net##.linkWidgetCarousel
 slickdeals.net##.mobileAd
 slickdeals.net##.mobileAdFluid
+slickdeals.net##.modal, .modal-modern
 slickdeals.net##.newsAndArticlesModule
 slickdeals.net##.omegaBanner
 slickdeals.net##.openAppBar
