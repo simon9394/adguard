@@ -4,17 +4,20 @@
 @@||dpm.demdex.net^$important
 @@||e.crashlytics.com^$important
 @@||events.split.io^$important
-@@||go.trouter.skype.com^$important
 @@||ip-api.com^$important
 @@||kinesis.us-east-1.amazonaws.com^$important
 @@||mobile-collector.newrelic.com^$important
 @@||mobile.launchdarkly.com^$important
 @@||reports.crashlytics.com^$important
 @@||sdk.split.io^$important
-@@||self.events.data.microsoft.com^$important
 @@||sessions.bugsnag.com^$important
 @@||settings.crashlytics.com^$important
 @@||smetrics.costco.com^$important
+
+!Microsoft
+@@||go.trouter.skype.com^$important
+@@||image.engage.windows.com^$important
+@@||self.events.data.microsoft.com^$important
 
 !Google
 @@||beacons.gcp.gvt2.com^$important
