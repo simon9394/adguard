@@ -1,18 +1,21 @@
 !mail.google.com##.Bu.y3
 !slickdeals.net##.blueprint (store name will not load if blocked)
 !slickdeals.net##.gridCategory (desktop version of front page will not load if blocked)
+
 ###banner
 ###content-top
 ###siteNotice
 ##.ak-master-sales-pop
 ##.themes_popups
 ##.upsell_banner
+
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Coronavirus/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/People You May Know/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Sponsored/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Suggested/i))
 facebook.com##div[data-pagelet^="Stories"]
 facebook.com##div[data-pagelet^="VideoChatHomeUnit"]
+
 instagram.com##.GZkEI
 instagram.com##.RnEpo
 instagram.com##.VideM
@@ -24,15 +27,19 @@ instagram.com##._Yhr4
 instagram.com##.ccgHY
 instagram.com##.kyOvH
 instagram.com##.vboSt
+
 outlook.live.com##._2F6rWwLisyawGGg32JOcop
 outlook.live.com##._3_hHr3kfEhbNYRFM5YJxH9
+
 reddit.com##.NqMdak8MgbuSVZAABdAw9
 reddit.com##._1KrMye71CT332tKKKUWAj6
 reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 reddit.com##._1vYrJH5uc57mZQJPN4l34E
 reddit.com##._2UMQXLQOtNVy_JO9ghou6
 reddit.com#?#div.promotedlink
+
 redpocket.com##.navbar
+
 slickdeals.net###aboutAuthorBox
 slickdeals.net##.aff
 slickdeals.net##.announcementBar
@@ -68,10 +75,15 @@ slickdeals.net##.topCategoriesModule
 slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.viewMoreStores
 slickdeals.net##.widget
+
 twitter.com##a[aria-label="Bookmarks"]
 twitter.com##a[aria-label="Search and explore"]
 twitter.com##aside[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
+!topics to follow
+twitter.com##[aria-label$="Timeline: Carousel"]
+twitter.com##span:has-text(Topics):upward(2)
+
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##.annotation
 youtube.com##.annotation-type-custom
