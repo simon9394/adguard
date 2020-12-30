@@ -36,6 +36,7 @@ reddit.com##._1KrMye71CT332tKKKUWAj6
 reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 reddit.com##._1vYrJH5uc57mZQJPN4l34E
 reddit.com##._2UMQXLQOtNVy_JO9ghou6
+reddit.com##a[href^="/rpan/"]>h3:has-text(/Top (livestream|broadcast)/):nth-ancestor(7)
 reddit.com#?#div.promotedlink
 
 redpocket.com##.navbar
