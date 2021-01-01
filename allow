@@ -16,7 +16,6 @@
 
 !Microsoft
 @@||go.trouter.skype.com^$important
-@@||image.engage.windows.com^$important
 @@||self.events.data.microsoft.com^$important
 
 !Google
@@ -83,15 +82,18 @@
 @@||sdk.asapp.com^$important
 @@||verizon.asapp.com^$important
 
+!Email
+!Unblock various email images
+@@||exacttarget.com.edgekey.net^$important
 !Unblock Costco email images and tracking info
 @@||email-tracking.infobip.com^$important
 @@||tracking.costco.com^$important
-
 !Unblock Home Depot email images
 @@||assets.micpn.com^$important
-
 !Unblock Macy email images
 @@||static.cdn.responsys.net^$important
+!Unsubscribe Emails
+@@||sendgrid.net^$important
 
 !Unblock images in reviews on various sites
 @@||photos-us.bazaarvoice.com^$important
@@ -104,9 +106,6 @@
 
 !Firstbeat Analytics
 @@||firstbeatanalytics.com^$important
-
-!Unsubscribe Emails
-@@||sendgrid.net^$important
 
 !Aliexpress
 @@||ali.ski^$important
