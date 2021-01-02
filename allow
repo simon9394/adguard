@@ -36,10 +36,13 @@
 @@||s.youtube.com^$important
 
 !CBS Live via web & app
+@@||apis.anvato.net^$important
 @@||cbsdigitalmedia.d1.sc.omtrdc.net^$important
 @@||cbsi.com.ssl.sc.omtrdc.net^$important
 @@||cbsinteractive.hb.omtrdc.net^$important
 @@||cbsnews.com.ssl.sc.omtrdc.net^$important
+@@||cdn.anvato.net^$important
+@@||gcdn.anvato.net^$important
 @@||geolocation.onetrust.com^$important
 @@||production-cmp.isgprivacy.cbsi.com^$important
 @@||pubads.g.doubleclick.net^$important
