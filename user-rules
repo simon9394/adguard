@@ -15,8 +15,6 @@ facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Sponsored/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Suggested/i))
 facebook.com##div[data-pagelet^="Stories"]
 facebook.com##div[data-pagelet^="VideoChatHomeUnit"]
-!Block entire right column
-facebook.com##.cxgpxx05
 
 instagram.com##.GZkEI
 instagram.com##.RnEpo
