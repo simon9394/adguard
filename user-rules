@@ -84,9 +84,6 @@ twitter.com##a[aria-label="Bookmarks"]
 twitter.com##a[aria-label="Search and explore"]
 twitter.com##aside[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
-!Block topics to follow
-twitter.com##[aria-label$="Timeline: Carousel"]
-twitter.com##span:has-text(Topics):upward(2)
 
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##.annotation
