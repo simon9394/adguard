@@ -2,20 +2,25 @@
 @@||service.force.com^$important
 
 !General
+@@||analytics.robinhood.com^$important
 @@||app-measurement.com^$important
 @@||assets.adobedtm.com^$important
 @@||dpm.demdex.net^$important
 @@||e.crashlytics.com^$important
 @@||events.split.io^$important
+@@||go.ml.com^$important
 @@||ip-api.com^$important
 @@||kinesis.us-east-1.amazonaws.com^$important
 @@||mobile-collector.newrelic.com^$important
 @@||mobile.launchdarkly.com^$important
+@@||nexus.ensighten.com^$important
 @@||reports.crashlytics.com^$important
 @@||sdk.split.io^$important
 @@||sessions.bugsnag.com^$important
 @@||settings.crashlytics.com^$important
 @@||smetrics.costco.com^$important
+@@||telegraph.api.hbo.com^$important
+@@||wl.spotify.com^$important
 
 !Microsoft
 @@||go.trouter.skype.com^$important
@@ -130,3 +135,6 @@
 
 !Citi Bank
 @@||citi.com^$important
+
+!TravelZoo
+@@||servedby.flashtalking.com^$important
