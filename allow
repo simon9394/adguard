@@ -1,10 +1,39 @@
 !Shopping
+@@||ali.ski^$important
+@@||s.click.aliexpress.com^$important
 @@||service.force.com^$important
+@@||smetrics.costco.com^$important
+!Home Depot App
+@@||customer.homedepot.com^$important 
+!CNAME
+@@||h-homedepot.online-metrix.net^$important
+!Target App
+@@||img9.target.com^$important
+!CNAME
+@@||h-target.online-metrix.net^$important
 
 !Banking / Financial Institutions
 @@||analytics.robinhood.com^$important
 @@||citi.com^$important
 @@||go.ml.com^$important
+
+!Online Streaming
+@@||customerevents.netflix.com^$important
+@@||ichnaea.netflix.com^$important
+@@||wl.spotify.com^$important
+
+!Email
+!Unblock various email images
+@@||exacttarget.com.edgekey.net^$important
+!Unblock Costco email images and tracking info
+@@||email-tracking.infobip.com^$important
+@@||tracking.costco.com^$important
+!Unblock Home Depot email images
+@@||assets.micpn.com^$important
+!Unblock Macy email images
+@@||static.cdn.responsys.net^$important
+!Unsubscribe Emails
+@@||sendgrid.net^$important
 
 !General
 @@||app-measurement.com^$important
@@ -21,9 +50,7 @@
 @@||sdk.split.io^$important
 @@||sessions.bugsnag.com^$important
 @@||settings.crashlytics.com^$important
-@@||smetrics.costco.com^$important
 @@||telegraph.api.hbo.com^$important
-@@||wl.spotify.com^$important
 
 !Microsoft
 @@||go.trouter.skype.com^$important
@@ -46,6 +73,10 @@
 !YouTube history
 @@||s.youtube.com^$important
 
+!Verizon online chat via web & app
+@@||sdk.asapp.com^$important
+@@||verizon.asapp.com^$important
+
 !CBS Live via web & app
 @@||apis.anvato.net^$important
 @@||cbsdigitalmedia.d1.sc.omtrdc.net^$important
@@ -59,10 +90,6 @@
 @@||pubads.g.doubleclick.net^$important
 @@||saa.cbsi.com^$important
 @@||saa.cbsnews.com^$important
-
-!Netflix
-@@||customerevents.netflix.com^$important
-@@||ichnaea.netflix.com^$important
 
 !Slickdeals
 @@||7eer.net^$important
@@ -93,23 +120,6 @@
 @@||track.flexlinkspro.com^$important
 @@||www.zenaps.com^$important
 
-!Verizon online chat via web & app
-@@||sdk.asapp.com^$important
-@@||verizon.asapp.com^$important
-
-!Email
-!Unblock various email images
-@@||exacttarget.com.edgekey.net^$important
-!Unblock Costco email images and tracking info
-@@||email-tracking.infobip.com^$important
-@@||tracking.costco.com^$important
-!Unblock Home Depot email images
-@@||assets.micpn.com^$important
-!Unblock Macy email images
-@@||static.cdn.responsys.net^$important
-!Unsubscribe Emails
-@@||sendgrid.net^$important
-
 !Unblock images in reviews on various sites
 @@||photos-us.bazaarvoice.com^$important
 
@@ -121,20 +131,6 @@
 
 !Firstbeat Analytics
 @@||firstbeatanalytics.com^$important
-
-!Aliexpress
-@@||ali.ski^$important
-@@||s.click.aliexpress.com^$important
-
-!Home Depot App
-@@||customer.homedepot.com^$important 
-!CNAME
-@@||h-homedepot.online-metrix.net^$important
-
-!Target App
-@@||img9.target.com^$important
-!CNAME
-@@||h-target.online-metrix.net^$important
 
 !TravelZoo
 @@||servedby.flashtalking.com^$important
