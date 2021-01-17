@@ -1,14 +1,17 @@
 !Shopping
 @@||service.force.com^$important
 
-!General
+!Banking / Financial Institutions
 @@||analytics.robinhood.com^$important
+@@||citi.com^$important
+@@||go.ml.com^$important
+
+!General
 @@||app-measurement.com^$important
 @@||assets.adobedtm.com^$important
 @@||dpm.demdex.net^$important
 @@||e.crashlytics.com^$important
 @@||events.split.io^$important
-@@||go.ml.com^$important
 @@||ip-api.com^$important
 @@||kinesis.us-east-1.amazonaws.com^$important
 @@||mobile-collector.newrelic.com^$important
@@ -132,9 +135,6 @@
 @@||img9.target.com^$important
 !CNAME
 @@||h-target.online-metrix.net^$important
-
-!Citi Bank
-@@||citi.com^$important
 
 !TravelZoo
 @@||servedby.flashtalking.com^$important
