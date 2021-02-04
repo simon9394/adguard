@@ -25,6 +25,8 @@
 !Email
 !Unblock various email images
 @@||exacttarget.com.edgekey.net^$important
+!Etrade email images
+@@||image.e.etradefinancial.com^$important
 !Unblock Costco email images and tracking info
 @@||email-tracking.infobip.com^$important
 @@||tracking.costco.com^$important
