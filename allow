@@ -1,43 +1,64 @@
+!----------------------------------------
 !Shopping
+!----------------------------------------
 @@||ali.ski^$important
 @@||s.click.aliexpress.com^$important
 @@||service.force.com^$important
 @@||smetrics.costco.com^$important
+
 !Home Depot App
 @@||customer.homedepot.com^$important 
 !CNAME
 @@||h-homedepot.online-metrix.net^$important
+
 !Target App
 @@||img9.target.com^$important
 !CNAME
 @@||h-target.online-metrix.net^$important
 
+!Vera Bradley
+@@||d26opx5dl8t69i.cloudfront.net^$important
+@@||rfksrv.com^$important
+!(rfksrv is still blocked by "AdGuard Tracking Protection filter" if AdGuard for iOS is in use)
+
+!----------------------------------------
 !Banking / Financial Institutions
+!----------------------------------------
 @@||analytics.robinhood.com^$important
 @@||citi.com^$important
 @@||go.ml.com^$important
 
+!----------------------------------------
 !Online Streaming
+!----------------------------------------
 @@||customerevents.netflix.com^$important
 @@||ichnaea.netflix.com^$important
 @@||wl.spotify.com^$important
 
+!----------------------------------------
 !Email
+!----------------------------------------
 !Unblock various email images
 @@||exacttarget.com.edgekey.net^$important
+
 !Etrade email images
 @@||image.e.etradefinancial.com^$important
+
 !Unblock Costco email images and tracking info
 @@||email-tracking.infobip.com^$important
 @@||tracking.costco.com^$important
+
 !Unblock Home Depot email images
 @@||assets.micpn.com^$important
+
 !Unblock Macy email images
 @@||static.cdn.responsys.net^$important
 !Unsubscribe Emails
 @@||sendgrid.net^$important
 
+!----------------------------------------
 !General
+!----------------------------------------
 @@||app-measurement.com^$important
 @@||assets.adobedtm.com^$important
 @@||dpm.demdex.net^$important
@@ -54,11 +75,15 @@
 @@||settings.crashlytics.com^$important
 @@||telegraph.api.hbo.com^$important
 
+!----------------------------------------
 !Microsoft
+!----------------------------------------
 @@||go.trouter.skype.com^$important
 @@||self.events.data.microsoft.com^$important
 
+!----------------------------------------
 !Google
+!----------------------------------------
 @@||beacons.gcp.gvt2.com^$important
 @@||beacons.gvt2.com^$important
 @@||beacons2.gvt2.com^$important
@@ -72,14 +97,20 @@
 @@||www.googleadservices.com^$important
 @@||www.googletagmanager.com^$important
 
+!----------------------------------------
 !YouTube history
+!----------------------------------------
 @@||s.youtube.com^$important
 
+!----------------------------------------
 !Verizon online chat via web & app
+!----------------------------------------
 @@||sdk.asapp.com^$important
 @@||verizon.asapp.com^$important
 
+!----------------------------------------
 !CBS Live via web & app
+!----------------------------------------
 @@||apis.anvato.net^$important
 @@||cbsdigitalmedia.d1.sc.omtrdc.net^$important
 @@||cbsi.com.ssl.sc.omtrdc.net^$important
@@ -93,7 +124,9 @@
 @@||saa.cbsi.com^$important
 @@||saa.cbsnews.com^$important
 
+!----------------------------------------
 !Slickdeals
+!----------------------------------------
 @@||7eer.net^$important
 @@||anrdoezrs.net^$important
 @@||apiservices.krxd.net^$important
@@ -122,17 +155,27 @@
 @@||track.flexlinkspro.com^$important
 @@||www.zenaps.com^$important
 
+!----------------------------------------
 !Unblock images in reviews on various sites
+!----------------------------------------
 @@||photos-us.bazaarvoice.com^$important
 
+!----------------------------------------
 !vChannel
+!----------------------------------------
 @@||feeder.ocry.com^$important
 
+!----------------------------------------
 !Change store location on autozone.com
+!----------------------------------------
 @@||liveapi.yext.com^$important
 
+!----------------------------------------
 !Firstbeat Analytics
+!----------------------------------------
 @@||firstbeatanalytics.com^$important
 
+!----------------------------------------
 !TravelZoo
+!----------------------------------------
 @@||servedby.flashtalking.com^$important
