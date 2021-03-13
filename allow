@@ -185,3 +185,10 @@
 !Yahoo Finance
 !----------------------------------------
 @@||m.yap.yahoo.com^$important
+
+!----------------------------------------
+!Etrade app
+!----------------------------------------
+@@||manifest.localytics.com^$important
+@@||manifest.53.localytics.com^$important
+!----------------------------------------
