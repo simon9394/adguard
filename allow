@@ -192,3 +192,9 @@
 @@||manifest.localytics.com^$important
 @@||manifest.53.localytics.com^$important
 !----------------------------------------
+
+!----------------------------------------
+!Zillow app (Captcha verification)
+!----------------------------------------
+@@||collector-pxhyx10rg3.perimeterx.net^$important
+@@||px-conf.perimeterx.net^$important
