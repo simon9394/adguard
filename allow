@@ -194,7 +194,6 @@
 !----------------------------------------
 
 !----------------------------------------
-!Zillow app (Captcha verification)
+!Zillow app
 !----------------------------------------
-@@||collector-pxhyx10rg3.perimeterx.net^$important
-@@||px-conf.perimeterx.net^$important
+@@||collector-pxhyx10rg3.px-cloud.net^$important
