@@ -196,4 +196,12 @@
 !----------------------------------------
 !Zillow app
 !----------------------------------------
+@@||captcha.px-cdn.net^$important
+@@||collector-pxhyx10rg3.perimeterx.net^$important
 @@||collector-pxhyx10rg3.px-cloud.net^$important
+@@||px-conf.perimeterx.net^$important
+
+!----------------------------------------
+!Apple Podcast app
+!----------------------------------------
+@@||chtbl.com^$important
