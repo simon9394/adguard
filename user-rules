@@ -42,8 +42,6 @@ reddit.com##.avKlJzxZU3brq4nAX0_i1
 reddit.com##a[href^="/rpan/"]>h3:has-text(/Top (livestream|broadcast)/):nth-ancestor(7)
 reddit.com#?#div.promotedlink
 
-redpocket.com##.navbar
-
 slickdeals.net###aboutAuthorBox
 slickdeals.net##.aff
 slickdeals.net##.announcementBar
