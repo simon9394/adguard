@@ -82,7 +82,7 @@ slickdeals.net##.widget
 
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
 twitter.com##a[aria-label="Bookmarks"]
-twitter.com##a[aria-label="Search and explore"]
+!twitter.com##a[aria-label="Search and explore"]
 twitter.com##aside[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 !Block topics to follow
