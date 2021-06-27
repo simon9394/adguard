@@ -95,6 +95,6 @@ youtube.com##.iv-promo-video
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-gradient-top
 
-@@||media.discordapp.net^$domain=discord.com
-@@||images-ext-1.discordapp.net^$domain=discord.com
-@@||pbs.twimg.com^$domain=tweetdeck.twitter.com
+@@||media.discordapp.net^$important
+@@||images-ext-1.discordapp.net^$important
+@@||pbs.twimg.com^$important
