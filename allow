@@ -56,6 +56,9 @@
 !Unsubscribe Emails
 @@||sendgrid.net^$important
 
+!Unblock varioius sites to unsubscribe email
+@@||s7.exacttarget.com^$important
+
 !----------------------------------------
 !General
 !----------------------------------------
