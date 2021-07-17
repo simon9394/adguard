@@ -64,6 +64,8 @@
 !----------------------------------------
 @@||app-measurement.com^$important
 @@||assets.adobedtm.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||crashlyticsreports-pa.googleapis.com^$important
 @@||dpm.demdex.net^$important
 @@||e.crashlytics.com^$important
 @@||events.split.io^$important
