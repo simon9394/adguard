@@ -100,6 +100,7 @@
 @@||fonts.gstatic.com^$important
 @@||google-analytics.com^$important
 @@||gstaticadssl.l.google.com^$important
+@@||ssl-google-analytics.l.google.com^$important
 @@||streetviewpixels-pa.googleapis.com^$important
 @@||www.googleadservices.com^$important
 @@||www.googletagmanager.com^$important
