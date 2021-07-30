@@ -6,16 +6,6 @@
 @@||service.force.com^$important
 @@||smetrics.costco.com^$important
 
-!Home Depot App
-@@||customer.homedepot.com^$important 
-!CNAME
-@@||h-homedepot.online-metrix.net^$important
-
-!Target App
-@@||img9.target.com^$important
-!CNAME
-@@||h-target.online-metrix.net^$important
-
 !Vera Bradley
 @@||d26opx5dl8t69i.cloudfront.net^$important
 @@||rfksrv.com^$important
@@ -33,6 +23,7 @@
 !----------------------------------------
 @@||customerevents.netflix.com^$important
 @@||ichnaea.netflix.com^$important
+@@||telegraph.api.hbo.com^$important
 @@||wl.spotify.com^$important
 
 !----------------------------------------
@@ -79,7 +70,6 @@
 @@||sentry.io^$important
 @@||sessions.bugsnag.com^$important
 @@||settings.crashlytics.com^$important
-@@||telegraph.api.hbo.com^$important
 
 !----------------------------------------
 !Microsoft
@@ -169,12 +159,6 @@
 @@||photos-us.bazaarvoice.com^$important
 
 !----------------------------------------
-!vChannel
-!----------------------------------------
-@@||feeder.ocry.com^$important
-@@||rss.ikwb.com^$important
-
-!----------------------------------------
 !Change store location on autozone.com
 !----------------------------------------
 @@||liveapi.yext.com^$important
@@ -190,26 +174,42 @@
 @@||servedby.flashtalking.com^$important
 
 !----------------------------------------
-!Yahoo Finance app
+!Apps (and/or their websites)
 !----------------------------------------
-@@||m.yap.yahoo.com^$important
 
-!----------------------------------------
-!Etrade app
-!----------------------------------------
+!Apple Podcast
+@@||chtbl.com^$important
+
+!Discord
+@@||media.discordapp.net^$important
+@@||images-ext-1.discordapp.net^$important
+
+!Etrade
 @@||manifest.localytics.com^$important
 @@||manifest.53.localytics.com^$important
-!----------------------------------------
 
-!----------------------------------------
-!Zillow app
-!----------------------------------------
+!Home Depot
+@@||customer.homedepot.com^$important 
+!CNAME
+@@||h-homedepot.online-metrix.net^$important
+
+!Target
+@@||img9.target.com^$important
+!CNAME
+@@||h-target.online-metrix.net^$important
+
+!Twitter
+@@||pbs.twimg.com^$important
+
+!vChannel
+@@||feeder.ocry.com^$important
+@@||rss.ikwb.com^$important
+
+!Yahoo Finance
+@@||m.yap.yahoo.com^$important
+
+!Zillow
 @@||captcha.px-cdn.net^$important
 @@||collector-pxhyx10rg3.perimeterx.net^$important
 @@||collector-pxhyx10rg3.px-cloud.net^$important
 @@||px-conf.perimeterx.net^$important
-
-!----------------------------------------
-!Apple Podcast app
-!----------------------------------------
-@@||chtbl.com^$important
