@@ -78,6 +78,8 @@ slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.viewMoreStores
 slickdeals.net##.widget
 
+tradingview.com/static/bundles/trial-notification.ea292e8bc255e26f8717.js
+
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
 twitter.com##a[aria-label="Bookmarks"]
 !twitter.com##a[aria-label="Search and explore"]
