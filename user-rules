@@ -78,6 +78,7 @@ slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.viewMoreStores
 slickdeals.net##.widget
 
+tradingview.com###header-toolbar-start-trial
 tradingview.com/static/bundles/trial-notification.*.js
 
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
