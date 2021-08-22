@@ -88,7 +88,7 @@ twitter.com##aside[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 !Block topics to follow
 twitter.com##[aria-label$="Timeline: Carousel"]
-twitter.com##span:has-text(Topics):upward(2)
+!twitter.com##span:has-text(Topics):upward(2) #Settings not displayed correctly if blocked.
 
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##.annotation
