@@ -82,7 +82,7 @@ tradingview.com###header-toolbar-start-trial
 tradingview.com/static/bundles/trial-notification.*.js
 
 abs.twimg.com/responsive-web/client-web/loader.SignupModule.*.js$important
-abs.twimg.com/responsive-web/client-web/loader.WideLayout.*.js$important
+!abs.twimg.com/responsive-web/client-web/loader.WideLayout.*.js$important
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
 twitter.com##a[aria-label="Bookmarks"]
 !twitter.com##a[aria-label="Search and explore"]
