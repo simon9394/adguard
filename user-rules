@@ -88,7 +88,7 @@ twitter.com##a[aria-label="Bookmarks"]
 !twitter.com##a[aria-label="Search and explore"]
 twitter.com##aside[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
-twitter.com##div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-1xcajam.r-zchlnj
+!twitter.com##div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-1xcajam.r-zchlnj #unfollow button doesn't work if blocked.
 twitter.com##div[aria-label="Timeline: Trending now"]
 !Block topics to follow
 twitter.com##[aria-label$="Timeline: Carousel"]
