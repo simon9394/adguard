@@ -152,6 +152,7 @@
 @@||fonts.gstatic.com^$important
 @@||google-analytics.com^$important
 @@||gstaticadssl.l.google.com^$important
+@@||pubads.g.doubleclick.net^$important
 @@||s.youtube.com^$important
 @@||ssl-google-analytics.l.google.com^$important
 @@||streetviewpixels-pa.googleapis.com^$important
@@ -161,18 +162,25 @@
 !----------------------------------------
 !CBS Live via web & app
 !----------------------------------------
+@@||agkn.com^$important
+@@||amlg.io^$important
 @@||apis.anvato.net^$important
+@@||at.cbsi.com^$important
 @@||cbsdigitalmedia.d1.sc.omtrdc.net^$important
 @@||cbsi.com.ssl.sc.omtrdc.net^$important
+@@||cbsi.demdex.net^$important
 @@||cbsinteractive.hb.omtrdc.net^$important
+@@||cbsivideo.com^$important
 @@||cbsnews.com.ssl.sc.omtrdc.net^$important
 @@||cdn.anvato.net^$important
+@@||cdn.cookielaw.org^$important
 @@||gcdn.anvato.net^$important
 @@||geolocation.onetrust.com^$important
 @@||production-cmp.isgprivacy.cbsi.com^$important
-@@||pubads.g.doubleclick.net^$important
+!@@||pubads.g.doubleclick.net^$important #Listed under Google
 @@||saa.cbsi.com^$important
 @@||saa.cbsnews.com^$important
+@@||v.fwmrm.net^$important
 
 !----------------------------------------
 !Slickdeals
