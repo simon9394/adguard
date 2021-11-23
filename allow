@@ -1,9 +1,6 @@
 !----------------------------------------
 !Apps and web sites
 !----------------------------------------
-!Blocked by regex
-@@||squeezemetrics.com^$important
-
 !Apple Podcast
 @@||chtbl.com^$important
 
@@ -19,12 +16,6 @@
 @@||customer.homedepot.com^$important 
 !CNAME
 @@||h-homedepot.online-metrix.net^$important
-
-!NY.gov
-@@||click.pstmrk.it^$important
-
-!Rapidgator CAPTCHA code
-@@||api-secure.solvemedia.com^$important
 
 !Target
 @@||img9.target.com^$important
@@ -67,17 +58,26 @@
 !----------------------------------------
 !Web Browsing
 !----------------------------------------
-!Beacon Health Options (JL)
-@@||providersearch.beaconhealthoptions.com^$important
+!Unblock regex filter
+@@||squeezemetrics.com^$important
 
 !Unblock images in reviews on various sites
 @@||photos-us.bazaarvoice.com^$important
+
+!Beacon Health Options (JL)
+@@||providersearch.beaconhealthoptions.com^$important
 
 !Change store location on autozone.com
 @@||liveapi.yext.com^$important
 
 !Firstbeat Analytics
 @@||firstbeatanalytics.com^$important
+
+!NY.gov
+@@||click.pstmrk.it^$important
+
+!Rapidgator CAPTCHA code
+@@||api-secure.solvemedia.com^$important
 
 !TravelZoo
 @@||servedby.flashtalking.com^$important
