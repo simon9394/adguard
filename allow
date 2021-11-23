@@ -1,6 +1,9 @@
 !----------------------------------------
 !Apps and web sites
 !----------------------------------------
+!Blocked by regex
+@@||squeezemetrics.com^$important
+
 !Apple Podcast
 @@||chtbl.com^$important
 
@@ -16,6 +19,9 @@
 @@||customer.homedepot.com^$important 
 !CNAME
 @@||h-homedepot.online-metrix.net^$important
+
+!NY.gov
+@@||click.pstmrk.it^$important
 
 !Rapidgator CAPTCHA code
 @@||api-secure.solvemedia.com^$important
