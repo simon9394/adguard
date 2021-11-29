@@ -58,6 +58,9 @@
 !----------------------------------------
 !Web Browsing
 !----------------------------------------
+!Unblock vids
+@@||wss.analyticacdn.com^$important
+
 !Unblock regex filter
 @@||squeezemetrics.com^$important
 
@@ -206,6 +209,7 @@
 @@||cj.mplxtms.com^$important
 @@||click.linksynergy.com^$important
 @@||dpbolvw.net^$important
+@@||e-10293.adzerk.net^$important
 @@||emjcd.com^$important
 @@||evyy.net^important
 @@||go.redirectingat.com^$important
