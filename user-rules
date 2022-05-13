@@ -13,6 +13,7 @@ facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Coronavirus/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/People You May Know/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Sponsored/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Suggested/i))
+facebook.com##div[data-pagelet^="FeedUnit"]:has-text(/Recommended post|Reels and short videos/)
 facebook.com##div[data-pagelet^="Stories"]
 facebook.com##div[data-pagelet^="VideoChatHomeUnit"]
 
