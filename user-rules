@@ -5,43 +5,6 @@
 ###banner
 ###content-top
 ###siteNotice
-##.ak-master-sales-pop
-##.themes_popups
-##.upsell_banner
-
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Coronavirus/i))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/People You May Know/i))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Sponsored/i))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/Suggested/i))
-facebook.com##div[data-pagelet^="FeedUnit"]:has-text(/Recommended post|Reels and short videos/)
-facebook.com##div[data-pagelet^="Stories"]
-facebook.com##div[data-pagelet^="VideoChatHomeUnit"]
-
-instagram.com##.GZkEI
-instagram.com##.RnEpo
-instagram.com##.VideM
-instagram.com##.Yx5HN
-instagram.com##._2eEhX
-instagram.com##._6E_wP
-instagram.com##._8UZ6e
-instagram.com##._Yhr4
-instagram.com##.ccgHY
-instagram.com##.kyOvH
-instagram.com##.vboSt
-
-outlook.live.com##.pBKjV
-outlook.live.com##.zCpRY
-
-reddit.com##._1KrMye71CT332tKKKUWAj6
-reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-reddit.com##._2pK6e4VBPMQxDuw2kXyIIb
-reddit.com##._2wqyhtudP4weVGsZdVXJgt
-reddit.com##._34dh2eyzMvJfjCBLeoWiDD
-reddit.com##._3Fe8ia7wR8lbatMEJ6BchP
-reddit.com##._3U7bizV5Ex3dWwKwNODf9R
-reddit.com##.avKlJzxZU3brq4nAX0_i1
-reddit.com##a[href^="/rpan/"]>h3:has-text(/Top (livestream|broadcast)/):nth-ancestor(7)
-reddit.com#?#div.promotedlink
 
 slickdeals.net###aboutAuthorBox
 slickdeals.net##.aff
@@ -79,9 +42,6 @@ slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.viewMoreStores
 slickdeals.net##.widget
 
-tradingview.com###header-toolbar-start-trial
-tradingview.com/static/bundles/trial-notification.*.js
-
 abs.twimg.com/responsive-web/client-web/loader.SignupModule.*.js$important
 !abs.twimg.com/responsive-web/client-web/loader.WideLayout.*.js$important
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
@@ -94,12 +54,3 @@ twitter.com##div[aria-label="Timeline: Trending now"]
 !Block topics to follow
 twitter.com##[aria-label$="Timeline: Carousel"]
 !twitter.com##span:has-text(Topics):upward(2) #Settings not displayed correctly if blocked.
-
-youtube.com###dismissable:has-text(LIVE NOW)
-youtube.com##.annotation
-youtube.com##.annotation-type-custom
-youtube.com##.iv-promo
-youtube.com##.iv-promo-video
-youtube.com##.ytd-popup-container
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-gradient-top
