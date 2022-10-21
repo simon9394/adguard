@@ -21,6 +21,7 @@
 @@||customer.homedepot.com^$important 
 !CNAME
 @@||h-homedepot.online-metrix.net^$important
+@@||homedepot.tt.omtrdc.net^$important
 
 !Target
 @@||img9.target.com^$important
