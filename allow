@@ -139,9 +139,11 @@
 !----------------------------------------
 !General
 !----------------------------------------
+@@||api2.branch.io^$important
 @@||app-measurement.com^$important
 @@||assets.adobedtm.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
+@@||cdn.branch.io^$important
 @@||crashlyticsreports-pa.googleapis.com^$important
 @@||dpm.demdex.net^$important
 @@||e.crashlytics.com^$important
