@@ -43,15 +43,15 @@ slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.viewMoreStores
 slickdeals.net##.widget
 
-abs.twimg.com/responsive-web/client-web/loader.SignupModule.*.js$important
-!abs.twimg.com/responsive-web/client-web/loader.WideLayout.*.js$important
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
 twitter.com##a[aria-label="Bookmarks"]
-!twitter.com##a[aria-label="Search and explore"]
 twitter.com##aside[aria-label="Who to follow"]
 twitter.com##div[aria-label="Timeline: Trending now"]
+
+!abs.twimg.com/responsive-web/client-web/loader.SignupModule.*.js$important
+!abs.twimg.com/responsive-web/client-web/loader.WideLayout.*.js$important
+!twitter.com##a[aria-label="Search and explore"]
 !twitter.com##div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-1xcajam.r-zchlnj #unfollow button doesn't work if blocked.
-twitter.com##div[aria-label="Timeline: Trending now"]
 !Block topics to follow
-twitter.com##[aria-label$="Timeline: Carousel"]
+!twitter.com##[aria-label$="Timeline: Carousel"]
 !twitter.com##span:has-text(Topics):upward(2) #Settings not displayed correctly if blocked.
