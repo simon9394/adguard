@@ -43,7 +43,11 @@ slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.viewMoreStores
 slickdeals.net##.widget
 
-
+twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
+twitter.com##a[aria-label="Bookmarks"]
+twitter.com##aside[aria-label="Who to follow"]
+twitter.com##div[aria-label="Timeline: Trending now"]
+twitter.com#@?##react-root >div[class] > div[class] > div[class] > div[class] > div[class]:-abp-has(> div[class] > div[class][role="button"])
 
 !abs.twimg.com/responsive-web/client-web/loader.SignupModule.*.js$important
 !abs.twimg.com/responsive-web/client-web/loader.WideLayout.*.js$important
