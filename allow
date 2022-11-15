@@ -69,6 +69,7 @@
 @@||wss.analyticacdn.com^$important
 
 !Unblock regex filter
+@@||petapixel.com^$important
 @@||squeezemetrics.com^$important
 
 !Unblock images in reviews on various sites
