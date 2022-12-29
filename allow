@@ -22,6 +22,7 @@
 !CNAME
 @@||h-homedepot.online-metrix.net^$important
 @@||homedepot.tt.omtrdc.net^$important
+@@||weeklycirculars.homedepot.com^$important
 
 !Target
 @@||img9.target.com^$important
@@ -60,7 +61,6 @@
 !Vera Bradley
 @@||d26opx5dl8t69i.cloudfront.net^$important
 @@||rfksrv.com^$important
-!(rfksrv is still blocked by "AdGuard Tracking Protection filter" if AdGuard for iOS is in use)
 
 !----------------------------------------
 !Web Browsing
@@ -227,6 +227,7 @@
 @@||evyy.net^important
 @@||go.redirectingat.com^$important
 @@||go.skimresources.com^$important
+@@||gopjn.com^$important
 @@||goto.target.com^$important
 @@||goto.walmart.com^$important
 @@||jdoqocy.com^$important
@@ -243,4 +244,4 @@
 @@||tkqlhce.com^$important
 @@||track.cj.akadns.net^$important
 @@||track.flexlinkspro.com^$important
-@@||www.zenaps.com^$important
+@@||zenaps.com^$important
