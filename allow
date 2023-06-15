@@ -6,7 +6,6 @@
 
 !Bestbuy
 @@||bestbuy.com.ssl.sc.omtrdc.net^$important
-@@||bestbuy.com^$important
 @@||bestbuy.demdex.net^$important
 
 !Discord
@@ -100,7 +99,6 @@
 !Banking / Financial Institutions
 !----------------------------------------
 @@||analytics.robinhood.com^$important
-@@||citi.com^$important
 @@||citicorpcreditservic.tt.omtrdc.net^$important
 @@||content22.citicards.com^$important
 @@||go.ml.com^$important
