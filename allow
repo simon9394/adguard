@@ -1,12 +1,22 @@
 !----------------------------------------
 !Apps and web sites
 !----------------------------------------
+!AliExpress
+@@||ali.ski^$important
+@@||s.click.aliexpress.com^$important
+
+!Amazon Android
+@@||aan.amazon.com^$important
+
 !Apple Podcast
 @@||chtbl.com^$important
 
 !Bestbuy
 @@||bestbuy.com.ssl.sc.omtrdc.net^$important
 @@||bestbuy.demdex.net^$important
+
+!Costco
+@@||smetrics.costco.com^$important
 
 !Discord
 @@||media.discordapp.net^$important
@@ -55,12 +65,6 @@
 !----------------------------------------
 !Shopping
 !----------------------------------------
-@@||ali.ski^$important
-@@||aan.amazon.com^$important
-@@||s.click.aliexpress.com^$important
-@@||service.force.com^$important
-@@||smetrics.costco.com^$important
-
 !Vera Bradley
 @@||d26opx5dl8t69i.cloudfront.net^$important
 @@||rfksrv.com^$important
