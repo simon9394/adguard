@@ -145,6 +145,7 @@
 !General
 !----------------------------------------
 @@||browser.pipe.aria.microsoft.com^$important
+@@||go-mpulse.net^$important
 @@||kinesis.us-east-1.amazonaws.com^$important
 
 !----------------------------------------
@@ -174,8 +175,7 @@
 !----------------------------------------
 !Microsoft
 !----------------------------------------
-@@||go-mpulse.net^$important
-@@||go.trouter.skype.com^$important
+@@||trouter.skype.com^$important
 @@||self.events.data.microsoft.com^$important
 
 !----------------------------------------
