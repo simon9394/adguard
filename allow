@@ -36,9 +36,6 @@
 !Hoopla
 @@||hoopladigital.com^$important
 
-!Oracle
-!@@||oracleinfinity.io^$important
-
 !Target
 @@||img9.target.com^$important
 !CNAME
@@ -175,8 +172,8 @@
 !----------------------------------------
 !Microsoft
 !----------------------------------------
+@@||go.trouter.skype.com^$important
 @@||self.events.data.microsoft.com^$important
-@@||trouter.skype.com^$important
 
 !----------------------------------------
 !CBS Live via web & app
