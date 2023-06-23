@@ -175,8 +175,8 @@
 !----------------------------------------
 !Microsoft
 !----------------------------------------
-@@||trouter.skype.com^$important
 @@||self.events.data.microsoft.com^$important
+@@||trouter.skype.com^$important
 
 !----------------------------------------
 !CBS Live via web & app
