@@ -27,8 +27,8 @@
 @@||manifest.53.localytics.com^$important
 
 !Home Depot
-@@||customer.homedepot.com^$important 
-!CNAME
+@@||cdn.quantummetric.com^$important
+@@||customer.homedepot.com^$important
 @@||h-homedepot.online-metrix.net^$important
 @@||homedepot.tt.omtrdc.net^$important
 @@||weeklycirculars.homedepot.com^$important
