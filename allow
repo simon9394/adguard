@@ -5,9 +5,6 @@
 @@||ali.ski^$important
 @@||s.click.aliexpress.com^$important
 
-!Amazon Android
-@@||aan.amazon.com^$important
-
 !Apple Podcast
 @@||chtbl.com^$important
 
@@ -38,7 +35,6 @@
 
 !Target
 @@||img9.target.com^$important
-!CNAME
 @@||h-target.online-metrix.net^$important
 
 !Twitter
@@ -48,6 +44,10 @@
 !vChannel
 @@||feeder.ocry.com^$important
 @@||rss.ikwb.com^$important
+
+!Vera Bradley
+@@||d26opx5dl8t69i.cloudfront.net^$important
+@@||rfksrv.com^$important
 
 !Verizon online chat via web & app
 @@||sdk.asapp.com^$important
@@ -61,13 +61,6 @@
 @@||collector-pxhyx10rg3.perimeterx.net^$important
 @@||collector-pxhyx10rg3.px-cloud.net^$important
 @@||px-conf.perimeterx.net^$important
-
-!----------------------------------------
-!Shopping
-!----------------------------------------
-!Vera Bradley
-@@||d26opx5dl8t69i.cloudfront.net^$important
-@@||rfksrv.com^$important
 
 !----------------------------------------
 !Web Browsing
@@ -120,12 +113,12 @@
 !Unblock various email images
 @@||exacttarget.com.edgekey.net^$important
 
-!Etrade email images
-@@||image.e.etradefinancial.com^$important
-
 !Unblock Costco email images and tracking info
 @@||email-tracking.infobip.com^$important
 @@||tracking.costco.com^$important
+
+!Unblock Etrade email images
+@@||image.e.etradefinancial.com^$important
 
 !Unblock Home Depot email images
 @@||assets.micpn.com^$important
@@ -140,10 +133,11 @@
 @@||s7.exacttarget.com^$important
 
 !----------------------------------------
-!General
+!Amazon
 !----------------------------------------
-@@||browser.pipe.aria.microsoft.com^$important
 @@||kinesis.us-east-1.amazonaws.com^$important
+!Android app
+@@||aan.amazon.com^$important
 
 !----------------------------------------
 !Google
@@ -172,6 +166,7 @@
 !----------------------------------------
 !Microsoft
 !----------------------------------------
+@@||browser.pipe.aria.microsoft.com^$important
 @@||go.trouter.skype.com^$important
 @@||self.events.data.microsoft.com^$important
 
