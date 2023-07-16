@@ -4,6 +4,8 @@
 @@||app-measurement.com^$important
 @@||cws.conviva.com^$important
 @@||events.launchdarkly.com^$important
+@@||js-agent.newrelic.com^$important
+@@||mobile-collector.newrelic.com^$important
 
 !----------------------------------------
 !Apps and web sites
