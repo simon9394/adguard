@@ -44,6 +44,7 @@ slickdeals.net##.stickyRightRailWrapper
 slickdeals.net##.topCategoriesModule
 slickdeals.net##.topCouponAndPromoCodesModule
 slickdeals.net##.viewMoreStores
+slickdeals.net##.welcomeToast
 slickdeals.net##.widget
 
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
