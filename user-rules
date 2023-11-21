@@ -51,16 +51,10 @@ slickdeals.net##.viewMoreStores
 slickdeals.net##.welcomeToast
 slickdeals.net##.widget
 
-twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
-twitter.com##a[aria-label="Bookmarks"]
-twitter.com##aside[aria-label="Who to follow"]
-twitter.com##div[aria-label="Timeline: Trending now"]
-twitter.com#@?##react-root >div[class] > div[class] > div[class] > div[class] > div[class]:-abp-has(> div[class] > div[class][role="button"])
+twitter.com##[data-viewportview="true"] [data-testid="cellInnerDiv"]:has([data-testid="top-impression-pixel"])
 
-!abs.twimg.com/responsive-web/client-web/loader.SignupModule.*.js$important
-!abs.twimg.com/responsive-web/client-web/loader.WideLayout.*.js$important
-!twitter.com##a[aria-label="Search and explore"]
-!twitter.com##div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-1xcajam.r-zchlnj #unfollow button doesn't work if blocked.
-!Block topics to follow
-!twitter.com##[aria-label$="Timeline: Carousel"]
-!twitter.com##span:has-text(Topics):upward(2) #Settings not displayed correctly if blocked.
+!twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
+!twitter.com##a[aria-label="Bookmarks"]
+!twitter.com##aside[aria-label="Who to follow"]
+!twitter.com##div[aria-label="Timeline: Trending now"]
+!twitter.com#@?##react-root >div[class] > div[class] > div[class] > div[class] > div[class]:-abp-has(> div[class] > div[class][role="button"])
