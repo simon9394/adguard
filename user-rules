@@ -1,55 +1,28 @@
-!mail.google.com##.Bu.y3
-!slickdeals.net##.blueprint (store name will not load if blocked)
-!slickdeals.net##.gridCategory (desktop version of front page will not load if blocked)
-
-###banner
-###content-top
-###siteNotice
-
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
 
 reddit.com#@$#shreddit-experience-tree { display: none !important; }
 
-slickdeals.net###aboutAuthorBox
-slickdeals.net##.aff
+slickdeals.net###adSlot1
+slickdeals.net###bottomDDAd
+slickdeals.net###commentsSection > .showThreadAd.ad
+slickdeals.net###logoarea
+slickdeals.net##.activeDeal.dealStats.box
 slickdeals.net##.announcementBar
-slickdeals.net##.bestCouponsSection
-slickdeals.net##.bp-c-panel_header
-slickdeals.net##.bp-p-extensionPromoCard
-slickdeals.net##.bp-p-seoStoreContent_section
-slickdeals.net##.featureDealsAndCoupons
-slickdeals.net##.featuredPopularWidget
-slickdeals.net##.fpNewsAndArticles
+slickdeals.net##.box.adGroup
+slickdeals.net##.box.bottomDDAd
+slickdeals.net##.commentsAd
 slickdeals.net##.frontpageGrid__bannerAd
-slickdeals.net##.frontpageRecommendationCarousel
-slickdeals.net##.has-extra-post
-slickdeals.net##.linkWidgetCarousel
-slickdeals.net##.mobileAdFluid
-slickdeals.net##.modal
-slickdeals.net##.modal-modern
-slickdeals.net##.newsAndArticlesModule
-slickdeals.net##.newsletterSignUp
-slickdeals.net##.omegaBanner
+slickdeals.net##.modal-modern.modal
+slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColumn
 slickdeals.net##.openAppBar
-slickdeals.net##.personalizedRecommendedWidget
-slickdeals.net##.personalizedWidget
-slickdeals.net##.popularCategories
-slickdeals.net##.popularStores
-slickdeals.net##.posts-list
-slickdeals.net##.recommendedDealAlertsSection
-slickdeals.net##.relatedCategoriesWidget
-slickdeals.net##.relatedDeals
-slickdeals.net##.relatedDealsRCM
+slickdeals.net##.prevalidate.newsletterSignUp
 slickdeals.net##.sdModalOverlay
-slickdeals.net##.seoLinkWidget
-slickdeals.net##.smallgridDeals
 slickdeals.net##.stickyRightRailWrapper
-slickdeals.net##.topCategoriesModule
-slickdeals.net##.topCouponAndPromoCodesModule
-slickdeals.net##.viewMoreStores
 slickdeals.net##.welcomeToast
-slickdeals.net##.widget
+slickdeals.net##div.commentsAd:nth-of-type(12)
+slickdeals.net##div.commentsAd:nth-of-type(20)
+slickdeals.net##div.commentsAd:nth-of-type(4)
 
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
 twitter.com##[data-viewportview="true"] [data-testid="cellInnerDiv"]:has([data-testid="top-impression-pixel"])
