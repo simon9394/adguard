@@ -176,7 +176,7 @@
 @@||s.youtube.com^$important
 @@||ssl-google-analytics.l.google.com^$important
 @@||www.googleadservices.com^$important
-!@@||www.googletagmanager.com^$important
+@@||www.googletagmanager.com^$important
 
 !----------------------------------------
 !Microsoft
