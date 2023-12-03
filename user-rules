@@ -28,6 +28,7 @@ www.reddit.com##xpromo-new-app-selector
 ||strapi.reddit.com^$xhr,domain=reddit.com
 
 slickdeals.net###adSlot1
+slickdeals.net###ads-bottom
 slickdeals.net###bottomDDAd
 slickdeals.net###categoryRcm-ContentModule > .bp-c-panel_header
 slickdeals.net###commentsSection > .showThreadAd.ad
