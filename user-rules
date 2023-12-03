@@ -9,8 +9,10 @@ reddit.com#@$#shreddit-experience-tree { display: none !important; }
 
 slickdeals.net###adSlot1
 slickdeals.net###bottomDDAd
+slickdeals.net###categoryRcm-ContentModule > .bp-c-panel_header
 slickdeals.net###commentsSection > .showThreadAd.ad
 slickdeals.net###logoarea
+slickdeals.net###moreStoreDealsRcm-ContentModule > .bp-c-panel_header
 slickdeals.net###popularDealsRcm-ContentModule > .bp-c-panel_header
 slickdeals.net###trendingDealsRcm-ContentModule > .bp-c-panel_header
 slickdeals.net##.activeDeal.dealStats.box
