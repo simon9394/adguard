@@ -57,6 +57,7 @@ twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
 twitter.com##[data-viewportview="true"] [data-testid="cellInnerDiv"]:has([data-testid="top-impression-pixel"])
 twitter.com##a[aria-label="Bookmarks"]
 twitter.com##aside[aria-label="Who to follow"]
+twitter.com##aside[role="complementary"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com#?#div[data-testid="cellInnerDiv"]:has(> div article[data-testid="tweet"] div[class]  > div[dir="ltr"][style*="text-overflow"][style*="color: rgb(83"] > span:only-child:contains(Ad):not(:contains(·)))
 twitter.com#@?##react-root >div[class] > div[class] > div[class] > div[class] > div[class]:-abp-has(> div[class] > div[class][role="button"])
