@@ -27,9 +27,6 @@ slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColu
 slickdeals.net##.prevalidate.newsletterSignUp
 slickdeals.net##.stickyRightRailWrapper
 slickdeals.net##.welcomeToast
-slickdeals.net##div.commentsAd:nth-of-type(12)
-slickdeals.net##div.commentsAd:nth-of-type(20)
-slickdeals.net##div.commentsAd:nth-of-type(4)
 slickdeals.net#$##bottomFullBar { display: none !important; }
 slickdeals.net#$#.sdModalOverlay { display: none !important; }
 slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
