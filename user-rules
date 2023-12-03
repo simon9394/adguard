@@ -9,7 +9,6 @@ reddit.com#@$#shreddit-experience-tree { display: none !important; }
 
 slickdeals.net###adSlot1
 slickdeals.net###bottomDDAd
-slickdeals.net###bottomFullBar
 slickdeals.net###commentsSection > .showThreadAd.ad
 slickdeals.net###logoarea
 slickdeals.net###popularDealsRcm-ContentModule > .bp-c-panel_header
@@ -23,14 +22,15 @@ slickdeals.net##.frontpageGrid__bannerAd
 slickdeals.net##.modal-modern.modal
 slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColumn
 slickdeals.net##.prevalidate.newsletterSignUp
-slickdeals.net##.sdModalOverlay
 slickdeals.net##.stickyRightRailWrapper
 slickdeals.net##.welcomeToast
-slickdeals.net##body.pushToAppDrawerScrollLock:style(overflow: auto !important;)
 slickdeals.net##div.commentsAd:nth-of-type(12)
 slickdeals.net##div.commentsAd:nth-of-type(20)
 slickdeals.net##div.commentsAd:nth-of-type(4)
-slickdeals.net##div[data-bar-name="pushToApp"]
+slickdeals.net#$##bottomFullBar { display: none !important; }
+slickdeals.net#$#.sdModalOverlay { display: none !important; }
+slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
+slickdeals.net#$#div[data-bar-name="pushToApp"] { display: none !important; }
 
 twitter.com##.r-1adg3ll:has(h2:has-text(/^Topics to follow/i))
 twitter.com##[data-viewportview="true"] [data-testid="cellInnerDiv"]:has([data-testid="top-impression-pixel"])
