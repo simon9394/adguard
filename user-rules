@@ -14,7 +14,6 @@ reddit.com##.XPromoInFeed
 reddit.com##.XPromoPopup
 reddit.com##.promotedlink
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-reddit.com#@$#shreddit-experience-tree { display: none !important; }
 www.reddit.com##+js(aeld, touchmove)
 www.reddit.com##.XPromoPopupRpl
 www.reddit.com##.XPromoPopupRplNew
