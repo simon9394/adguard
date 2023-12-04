@@ -26,10 +26,6 @@ www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
 www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
 www.reddit.com##xpromo-app-selector
 www.reddit.com##xpromo-new-app-selector
-||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
-||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
-||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
-||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
 
 slickdeals.net###adSlot1
 slickdeals.net###ads-bottom
