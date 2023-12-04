@@ -8,8 +8,28 @@ outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
 
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPopup
 reddit.com##.promotedlink
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddit.com#@$#shreddit-experience-tree { display: none !important; }
+www.reddit.com##+js(aeld, touchmove)
+www.reddit.com##.XPromoPopupRpl
+www.reddit.com##.XPromoPopupRplNew
+www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
+www.reddit.com##body:style(pointer-events:auto!important;)
+www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
+www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
+www.reddit.com##xpromo-app-selector
+www.reddit.com##xpromo-new-app-selector
+||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
+||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
 
 slickdeals.net###adSlot1
 slickdeals.net###ads-bottom
