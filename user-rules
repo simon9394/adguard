@@ -11,6 +11,9 @@ www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="
 www.youtube.com##.ytp-cards-teaser
 www.youtube.com##.ytp-ce-element
 www.youtube.com##ytd-reel-shelf-renderer
+youtube.com##.ytp-button.branding-img-container
+youtube.com##.ytp-button.ytp-cards-button
+youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|No thanks|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
 ||i.ytimg.com/vi/*&rs$image,removeparam=rs
 
 outlook.live.com##.LBktY > .GssDD
