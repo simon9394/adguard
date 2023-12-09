@@ -9,10 +9,7 @@ www.google.com##.VEELad.nD2EKb
 
 www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
 www.youtube.com##.ytp-cards-teaser
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-large-round.ytp-ce-playlist.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-bottom-right-quad.ytp-ce-large-round.ytp-ce-playlist.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-large-round.ytp-ce-playlist.ytp-ce-element
+www.youtube.com##.ytp-ce-element
 www.youtube.com##ytd-reel-shelf-renderer
 ||i.ytimg.com/vi/*&rs$image,removeparam=rs
 
