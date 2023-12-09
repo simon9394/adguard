@@ -7,6 +7,8 @@ www.google.com###tvcap
 www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
 
+/annotations_module.js$script,important,domain=youtube.com
+/endscreen.js$script,important,domain=youtube.com
 www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
 www.youtube.com##.ytp-cards-teaser
 www.youtube.com##.ytp-ce-element
