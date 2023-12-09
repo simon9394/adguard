@@ -58,7 +58,6 @@ slickdeals.net#$#.sdModalOverlay { display: none !important; }
 slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
 slickdeals.net#$#div[data-bar-name="pushToApp"] { display: none !important; }
 
-twitter.com##+js(trusted-set-cookie, d_prefs, MjoxLGNvbnNlbnRfdmVyc2lvbjoyLHRleHRfdmVyc2lvbjoxMDAw)
 twitter.com##[data-testid="primaryColumn"] [data-testid="cellInnerDiv"] > div:has([data-testid$="-impression-pixel"]):remove()
 twitter.com##a[aria-label="Bookmarks"]
 twitter.com##aside[aria-label="Who to follow"]
