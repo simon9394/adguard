@@ -66,3 +66,4 @@ twitter.com##aside[role="complementary"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
 twitter.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
+||ads-twitter.com^
