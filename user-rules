@@ -76,3 +76,63 @@ twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
 twitter.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
 ||ads-twitter.com^
+
+dictionary.cambridge.org##.lmt-10.lt2s.hfr-s
+dictionary.cambridge.org##.lp-s_t-0.lp-s_25.lpt-15.lp-10
+dictionary.cambridge.org##.lp-s_t-15.lp-s_25.cf.han.bh.pr
+dictionary.cambridge.org##.lpb-20.lt2s.hfr-s
+dictionary.cambridge.org##.z1.lp-m_r-20.lp-m_l-20.lp-s_t-15.lp-xs_t-10.lmax.lpr-15.lpl-15 > .x
+www.collinsdictionary.com##.cB-hook.cB
+www.collinsdictionary.com##.cB-q.cB
+www.collinsdictionary.com##.cB-u.cB
+www.collinsdictionary.com##.columns
+www.collinsdictionary.com##.icon-Share.share-button
+www.collinsdictionary.com##.jsActive.new-from-collins.carousel
+www.collinsdictionary.com##.res_cell_center_content.dc > .carousel-title.h2
+www.collinsdictionary.com##.res_cell_right
+www.collinsdictionary.com##.specialQuiz
+www.collinsdictionary.com##footer
+www.dictionary.com##.DictionaryResultQuizModule-module_root_a9fd3034573686c75b39.ResultsCard-module_root_abb10bc0f52dca092ec5
+www.dictionary.com##.IDf5D4Mo7pRyWwino8y4.HjmF_6uYqSRDdE7yX2Wy > aside
+www.dictionary.com##.MMaaxw9g8UQaSLzBAbKf
+www.dictionary.com##.jVP1dndWm_O5ernARXUz
+www.dictionary.com##.m5OdYzcMex7CPXKWlUOj
+www.ldoceonline.com##.carousel
+www.ldoceonline.com##.cols
+www.ldoceonline.com##.home_content
+www.ldoceonline.com##.responsive_cell2
+www.ldoceonline.com##.responsive_row.footer
+www.merriam-webster.com###citations
+www.merriam-webster.com###left-content > .clearfix
+www.merriam-webster.com###social-links
+www.merriam-webster.com##.additional-content-area
+www.merriam-webster.com##.content-section-with-header.more-from.widget
+www.merriam-webster.com##.global-footer
+www.merriam-webster.com##.home-redesign-layout
+www.merriam-webster.com##.non-sticky.fixed-wrapper
+www.merriam-webster.com##.position-relative.w-100.bg-mw-black.container-top-ads
+www.oxfordlearnersdictionaries.com###flex-header-container
+www.oxfordlearnersdictionaries.com###homeleft > .responsive_row
+www.oxfordlearnersdictionaries.com###ring-links-box
+www.oxfordlearnersdictionaries.com##.dictionary_banner
+www.oxfordlearnersdictionaries.com##.dictlink-g
+www.oxfordlearnersdictionaries.com##.oup-footer
+www.oxfordlearnersdictionaries.com##.parallax-container
+www.oxfordlearnersdictionaries.com##.row_static_items.row
+www.oxfordlearnersdictionaries.com##.topic.wotd-box
+www.thefreedictionary.com###SubscrSlider
+www.thefreedictionary.com###fHP
+www.thefreedictionary.com###footer
+www.thefreedictionary.com###headerBlock
+www.thefreedictionary.com###sidebar
+www.thefreedictionary.com##.content-holder > aside
+www.thefreedictionary.com##.sticky.fixed-block
+www.thefreedictionary.com##.w2 > div > div
+www.thefreedictionary.com##div.width34.block
+www.thefreedictionary.com##div.width61.block
+www.thesaurus.com##.Cl8rAJN4wBETC2TTA2vN
+www.thesaurus.com##.CommonQuizModule-module_root_f1ed2e657e5ba7533a2a
+www.thesaurus.com##.MMaaxw9g8UQaSLzBAbKf
+www.thesaurus.com##.wqefwiyMW90zdJbSv7Hs
+www.wordreference.com###rightcolumn
+www.wordreference.com##.info
