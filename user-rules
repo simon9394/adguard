@@ -3,6 +3,7 @@
 duckduckgo.com##[data-layout="ad"]
 
 google.*##[id^="eob_"]
+google.com##[role="navigation"] a[href*="&tbm=shop&"]
 www.google.com###tvcap
 www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
@@ -32,6 +33,7 @@ www.reddit.com##+js(aeld, touchmove)
 www.reddit.com##.XPromoPopupRpl
 www.reddit.com##.XPromoPopupRplNew
 www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.masthead
 www.reddit.com##.useApp,.TopNav__promoButton
 www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
 www.reddit.com##body:style(pointer-events:auto!important;)
