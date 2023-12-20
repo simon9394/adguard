@@ -3,7 +3,6 @@
 duckduckgo.com##[data-layout="ad"]
 
 google.*##[id^="eob_"]
-google.com##[role="navigation"] a[href*="&tbm=shop&"]
 www.google.com###tvcap
 www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
