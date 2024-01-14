@@ -2,6 +2,7 @@
 
 duckduckgo.com##[data-layout="ad"]
 
+google.*##.kSMK2
 google.*##[id^="eob_"]
 www.google.com###tvcap
 www.google.com##.VEELad.nD2EKb
