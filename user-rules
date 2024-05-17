@@ -73,9 +73,6 @@ slickdeals.net#$#.sdModalOverlay { display: none !important; }
 slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
 slickdeals.net#$#div[data-bar-name="pushToApp"] { display: none !important; }
 
-x.com##[aria-label$="trending now" i]
-x.com##[aria-label="who to follow" i]:upward(1)
-
 dictionary.cambridge.org##.lmt-10.lt2s.hfr-s
 dictionary.cambridge.org##.lp-s_t-0.lp-s_25.lpt-15.lp-10
 dictionary.cambridge.org##.lp-s_t-15.lp-s_25.cf.han.bh.pr
