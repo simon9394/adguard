@@ -73,14 +73,8 @@ slickdeals.net#$#.sdModalOverlay { display: none !important; }
 slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
 slickdeals.net#$#div[data-bar-name="pushToApp"] { display: none !important; }
 
-x.com##[data-testid="primaryColumn"] [data-testid="cellInnerDiv"] > div:has([data-testid$="-impression-pixel"]):remove()
-x.com##a[aria-label="Bookmarks"]
-x.com##aside[aria-label="Who to follow"]
-x.com##aside[role="complementary"]
-x.com##div[aria-label="Timeline: Trending now"]
-x.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
-x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
-||ads-x.com^
+x.com##[aria-label$="trending now" i]
+x.com##[aria-label="who to follow" i]:upward(1)
 
 dictionary.cambridge.org##.lmt-10.lt2s.hfr-s
 dictionary.cambridge.org##.lp-s_t-0.lp-s_25.lpt-15.lp-10
