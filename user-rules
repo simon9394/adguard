@@ -47,6 +47,12 @@ www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!importan
 www.reddit.com##xpromo-app-selector
 www.reddit.com##xpromo-new-app-selector
 
+twitter.com,x.com##[aria-label$="trending now" i]
+twitter.com,x.com##[aria-label="Get Verified"]    
+twitter.com,x.com##[aria-label="who to follow" i]:upward(1)
+twitter.com,x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
+twitter.com,x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+
 slickdeals.net###adSlot1
 slickdeals.net###ads-bottom
 slickdeals.net###bottomDDAd
