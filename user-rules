@@ -47,6 +47,8 @@ www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!importan
 www.reddit.com##xpromo-app-selector
 www.reddit.com##xpromo-new-app-selector
 
+twitter.com,x.com##[aria-label$="relevant people" i]
+twitter.com,x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
 twitter.com,x.com##[aria-label$="trending now" i]
 twitter.com,x.com##[aria-label="Get Verified"]    
 twitter.com,x.com##[aria-label="who to follow" i]:upward(1)
