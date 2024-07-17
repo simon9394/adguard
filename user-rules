@@ -47,14 +47,15 @@ www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!importan
 www.reddit.com##xpromo-app-selector
 www.reddit.com##xpromo-new-app-selector
 
-twitter.com,x.com##[aria-label$="relevant people" i]
-twitter.com,x.com##[aria-label$="subscribe to premium" i]
-twitter.com,x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
-twitter.com,x.com##[aria-label$="trending now" i]
-twitter.com,x.com##[aria-label="Get Verified"]    
-twitter.com,x.com##[aria-label="who to follow" i]:upward(1)
-twitter.com,x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
-twitter.com,x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+x.com##[aria-label$="relevant people" i]
+x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
+x.com##[aria-label$="subscribe to premium" i]
+x.com##[aria-label$="trending now" i]
+x.com##[aria-label="Get Verified"]
+x.com##[aria-label="who to follow" i]:upward(1)
+x.com##[aria-label^="Want less ads"]:upward(1)
+x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
+x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 
 slickdeals.net###adSlot1
 slickdeals.net###ads-bottom
