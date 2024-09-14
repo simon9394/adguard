@@ -10,7 +10,7 @@
 @@||mobile-collector.newrelic.com^$important
 
 !----------------------------------------
-!Apps and web sites
+!Web
 !----------------------------------------
 !AliExpress
 @@||ali.ski^$important
@@ -18,6 +18,12 @@
 
 !Apple Podcast
 @@||chtbl.com^$important
+
+!Autozone change store location
+@@||liveapi.yext.com^$important
+
+!Beacon Health options (JL)
+@@||providersearch.beaconhealthoptions.com^$important
 
 !Bestbuy
 @@||bestbuy.com.ssl.sc.omtrdc.net^$important
@@ -47,6 +53,12 @@
 !Lenovo
 @@||bluecore.com^$important
 
+!NY.gov
+@@||click.pstmrk.it^$important
+
+!Rapidgator CAPTCHA code
+@@||api-secure.solvemedia.com^$important
+
 !Samsung
 @@||js.datadome.co^$important
 
@@ -57,6 +69,9 @@
 !Twitter
 @@||pbs.twimg.com^$important
 @@||t.co^$important
+
+!TravelZoo
+@@||servedby.flashtalking.com^$important
 
 !vChannel
 @@||feeder.ocry.com^$important
@@ -80,7 +95,7 @@
 @@||px-conf.perimeterx.net^$important
 
 !----------------------------------------
-!Web Browsing
+!General
 !----------------------------------------
 !Unblock vids
 @@||wss.analyticacdn.com^$important
@@ -91,23 +106,8 @@
 !Unblock images in reviews on various sites
 @@||photos-us.bazaarvoice.com^$important
 
-!Beacon Health options (JL)
-@@||providersearch.beaconhealthoptions.com^$important
-
-!Change store location on autozone.com
-@@||liveapi.yext.com^$important
-
-!NY.gov
-@@||click.pstmrk.it^$important
-
-!Rapidgator CAPTCHA code
-@@||api-secure.solvemedia.com^$important
-
-!TravelZoo
-@@||servedby.flashtalking.com^$important
-
 !----------------------------------------
-!Banking / Financial Institutions
+!Banks
 !----------------------------------------
 @@||analytics.robinhood.com^$important
 @@||citicorpcreditservic.tt.omtrdc.net^$important
@@ -117,7 +117,7 @@
 @@||tracking.csgipe.com^$important
 
 !----------------------------------------
-!Online Streaming
+!Streaming
 !----------------------------------------
 @@||customerevents.netflix.com^$important
 @@||ichnaea.netflix.com^$important
