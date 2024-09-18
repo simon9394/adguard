@@ -171,14 +171,15 @@
 @@||fonts.gstatic.com^$important
 @@||google-analytics.com^$important
 @@||googleadapis.l.google.com^$important
+@@||googleadservices.com^$important
 @@||googleapis.com^$important
+@@||googletagmanager.com^$important
 @@||gstaticadssl.l.google.com^$important
 @@||pagead.l.doubleclick.net^$important
 @@||pubads.g.doubleclick.net^$important
 @@||s.youtube.com^$important
 @@||ssl-google-analytics.l.google.com^$important
-@@||www.googleadservices.com^$important
-@@||www.googletagmanager.com^$important
+
 
 !----------------------------------------
 !Microsoft
