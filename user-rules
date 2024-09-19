@@ -2,11 +2,11 @@
 
 duckduckgo.com##[data-layout="ad"]
 
+google.*##.kSMK2
+google.*##[id^="eob_"]
+www.google.com###tvcap
+www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
-||google.*##.kSMK2
-||google.*##[id^="eob_"]
-||google.com###tvcap
-||google.com##.VEELad.nD2EKb
 
 /annotations_module.js$script,important,domain=youtube.com
 /endscreen.js$script,important,domain=youtube.com
@@ -25,27 +25,27 @@ outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
 
-||reddit.com##+js(aeld, touchmove)
-||reddit.com##.AppSelectorModal__body
-||reddit.com##.XPromoInFeed
-||reddit.com##.XPromoPopup
-||reddit.com##.XPromoPopupRpl
-||reddit.com##.XPromoPopupRplNew
-||reddit.com##.bottom-bar, .XPromoBottomBar
-||reddit.com##.masthead
-||reddit.com##.promotedlink
-||reddit.com##.upsell_banner
-||reddit.com##.useApp,.TopNav__promoButton
-||reddit.com##[aria-label="Related content"]
-||reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-||reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-||reddit.com##body:style(pointer-events:auto!important;)
-||reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
-||reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
-||reddit.com##xpromo-app-selector
-||reddit.com##xpromo-new-app-selector
-||redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
-||redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPopup
+reddit.com##.promotedlink
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+www.reddit.com##+js(aeld, touchmove)
+www.reddit.com##.XPromoPopupRpl
+www.reddit.com##.XPromoPopupRplNew
+www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.masthead
+www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##[aria-label="Related content"]
+www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
+www.reddit.com##body:style(pointer-events:auto!important;)
+www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
+www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
+www.reddit.com##xpromo-app-selector
+www.reddit.com##xpromo-new-app-selector
+www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
 
 x.com##[aria-label$="relevant people" i]
 x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
