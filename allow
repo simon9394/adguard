@@ -100,9 +100,6 @@
 !Unblock vids
 @@||wss.analyticacdn.com^$important
 
-!Unblock regex filter
-@@||firstbeatanalytics.com^$important
-
 !Unblock images in reviews on various sites
 @@||photos-us.bazaarvoice.com^$important
 
