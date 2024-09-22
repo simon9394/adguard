@@ -1,5 +1,5 @@
 ! Title: regex
 
-/.*?(a(ffiliat(e|ion)|nalytic)|b(anner|eacon)|mads|s(tatistic|yndication)|telemetry)/
+/.*?(a(ffiliat(e|ion)|nalytic)|mads|s(tatistic|yndication)|telemetry)/
 /^(.+[_.-])?(ad(s?\.[A-Za-z0-9]+|[vx]|vert)|count(er)?|stat(istic)?)s?[0-9]*[_.-]/
 /ad(im(age|g)|s(e?rv(ice|er)?|ystem)|track(er|ing)?|vertis(e(ment|r)?|ing))/
