@@ -22,8 +22,8 @@
 !Autozone change store location
 @@||liveapi.yext.com^$important
 
-!Beacon Health options (JL)
-@@||providersearch.beaconhealthoptions.com^$important
+!Beacon Health (JL)
+@@||beaconhealthoptions.com^$important
 
 !Bestbuy
 @@||bestbuy.com.ssl.sc.omtrdc.net^$important
@@ -177,7 +177,6 @@
 @@||s.youtube.com^$important
 @@||ssl-google-analytics.l.google.com^$important
 
-
 !----------------------------------------
 !Microsoft
 !----------------------------------------
@@ -203,10 +202,10 @@
 @@||gcdn.anvato.net^$important
 @@||geolocation.onetrust.com^$important
 @@||production-cmp.isgprivacy.cbsi.com^$important
-!@@||pubads.g.doubleclick.net^$important #Listed under Google
 @@||saa.cbsi.com^$important
 @@||saa.cbsnews.com^$important
 @@||v.fwmrm.net^$important
+!@@||pubads.g.doubleclick.net^$important #Listed under Google
 
 !----------------------------------------
 !Slickdeals
