@@ -96,7 +96,7 @@ www.thesaurus.com##.wqefwiyMW90zdJbSv7Hs
 www.wordreference.com###rightcolumn
 www.wordreference.com##.info
 
-![https://github.com/MrBukLau/filter-lists]
+!https://github.com/MrBukLau/filter-lists
 !================================================================================
 redd.it##shreddit-async-loader[bundlename="bottom_bar_xpromo"]
 redd.it##shreddit-async-loader[bundlename="top_button"][paint-group="xpromo"]
@@ -235,6 +235,37 @@ youtube.com##.ytp-endscreen-content
 youtube.com##yt-live-chat-viewer-engagement-message-renderer
 youtube.com##yt-mealbar-promo-renderer
 youtube.com##ytd-popup-container:has-text(Join this channel and unlock members-only perks)
+!================================================================================
+
+!https://www.reddit.com/r/Adguard/comments/1f0sz4l/ive_converted_ublock_origin_rules_to_block/
+!================================================================================
+! YT Homepage and Subscriptions - Hide the Shorts section
+youtube.com##[is-shorts]
+! YT Menu - Hide the Shorts button
+youtube.com###guide [title="Shorts"]
+! YT Search - Hide Shorts (alternative)
+youtube.com##ytd-video-renderer:has(a[href*="/shorts/"])
+! YT Search, Channels and Sidebar or below the player - Hide the Shorts sections
+youtube.com##ytd-reel-shelf-renderer
+! YT Channels - Hide the Shorts tab
+youtube.com##tp-yt-paper-tab[aria-label="Shorts"]
+! YT Subscriptions - Hide Shorts - Grid View
+youtube.com##ytd-grid-video-renderer:has(a[href*="/shorts/"])
+! YT Subscriptions - Hide Shorts - List View
+youtube.com##ytd-video-renderer:has(a[href*="/shorts/"])
+! YT Subscriptions - New Layout - Hide Shorts
+youtube.com##ytd-rich-item-renderer:has(a[href*="/shorts/"])
+! YT Sidebar - Hide Shorts
+youtube.com##ytd-compact-video-renderer:has(a[href*="/shorts/"])
+
+! YT Mobile - Hide the Shorts Menu button
+m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-shorts)
+! YT Mobile - Hide the Shorts sections
+m.youtube.com##ytm-reel-shelf-renderer
+! YT Mobile - Hide Shorts in search results
+m.youtube.com##ytm-video-with-context-renderer:has(a[href*="/shorts/"])
+! YT Mobile - Hide the Shorts button on Channels
+m.youtube.com##tp-yt-paper-tab[aria-label="Shorts"]
 !================================================================================
 
 !amp.reddit.com##.AppSelectorModal__body
