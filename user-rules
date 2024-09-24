@@ -25,28 +25,6 @@ outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
 
-amp.reddit.com##.AppSelectorModal__body
-amp.reddit.com##.upsell_banner
-reddit.com##.XPromoInFeed
-reddit.com##.XPromoPopup
-reddit.com##.promotedlink
-reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-www.reddit.com##+js(aeld, touchmove)
-www.reddit.com##.XPromoPopupRpl
-www.reddit.com##.XPromoPopupRplNew
-www.reddit.com##.bottom-bar, .XPromoBottomBar
-www.reddit.com##.masthead
-www.reddit.com##.useApp,.TopNav__promoButton
-www.reddit.com##[aria-label="Related content"]
-www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-www.reddit.com##body:style(pointer-events:auto!important;)
-www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
-www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
-www.reddit.com##xpromo-app-selector
-www.reddit.com##xpromo-new-app-selector
-www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
-www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
-
 x.com##[aria-label$="relevant people" i]
 x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
 x.com##[aria-label$="subscribe to premium" i]
@@ -56,32 +34,6 @@ x.com##[aria-label="who to follow" i]:upward(1)
 x.com##[aria-label^="Want less ads"]:upward(1)
 x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
 x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
-
-slickdeals.net###adSlot1
-slickdeals.net###ads-bottom
-slickdeals.net###bottomDDAd
-slickdeals.net###categoryRcm-ContentModule > .bp-c-panel_header
-slickdeals.net###commentsSection > .showThreadAd.ad
-slickdeals.net###logoarea
-slickdeals.net###moreStoreDealsRcm-ContentModule > .bp-c-panel_header
-slickdeals.net###popularDealsRcm-ContentModule > .bp-c-panel_header
-slickdeals.net###trendingDealsRcm-ContentModule > .bp-c-panel_header
-slickdeals.net##.activeDeal.dealStats.box
-slickdeals.net##.announcementBar
-slickdeals.net##.box.adGroup
-slickdeals.net##.box.bottomDDAd
-slickdeals.net##.commentsAd
-slickdeals.net##.frontpageGrid__bannerAd
-slickdeals.net##.frontpageRecommendationCarousel
-slickdeals.net##.modal-modern.modal
-slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColumn
-slickdeals.net##.prevalidate.newsletterSignUp
-slickdeals.net##.stickyRightRailWrapper
-slickdeals.net##.welcomeToast
-slickdeals.net#$##bottomFullBar { display: none !important; }
-slickdeals.net#$#.sdModalOverlay { display: none !important; }
-slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
-slickdeals.net#$#div[data-bar-name="pushToApp"] { display: none !important; }
 
 dictionary.cambridge.org##.lmt-10.lt2s.hfr-s
 dictionary.cambridge.org##.lp-s_t-0.lp-s_25.lpt-15.lp-10
@@ -143,3 +95,192 @@ www.thesaurus.com##.MMaaxw9g8UQaSLzBAbKf
 www.thesaurus.com##.wqefwiyMW90zdJbSv7Hs
 www.wordreference.com###rightcolumn
 www.wordreference.com##.info
+
+![https://github.com/MrBukLau/filter-lists]
+!================================================================================
+redd.it##shreddit-async-loader[bundlename="bottom_bar_xpromo"]
+redd.it##shreddit-async-loader[bundlename="top_button"][paint-group="xpromo"]
+reddit.com###blocking-modal-blur-container:style(filter: none !important;)
+reddit.com###nsfw-qr-dialog
+reddit.com###post-image:style(margin-bottom: 0rem !important;)
+reddit.com###trending-searches-ad
+reddit.com###use-app
+reddit.com##+js(rc, scroll-disabled, body, stay)
+reddit.com##+js(rc, scroll-is-blocked, body, stay)
+reddit.com##._13geajc1u3mpvccghflqg4
+reddit.com##.blurred:style(background: none !important; filter: none !important;)
+reddit.com##.communityheader-text-row > .topiclist
+reddit.com##.getappfooter
+reddit.com##.joinbuttonfull
+reddit.com##.lb-footer
+reddit.com##.lb-header
+reddit.com##.m-blurred:style(filter: none !important;)
+reddit.com##.navframe:style(overflow: auto !important;)
+reddit.com##.paginationbuttons:style(padding: 0rem 1rem 0rem !important;)
+reddit.com##.pb-xl:style(padding-bottom: 0rem !important;)
+reddit.com##.postcontent__img[src]:style(object-fit: contain !important;)
+reddit.com##.previewdrawer
+reddit.com##.prompt
+reddit.com##.reddit-search-bar > div > div:first-child
+reddit.com##.right-sidebar:has-text(More posts you may like)
+reddit.com##.scroll-disabled:style(overflow: auto !important; position: static !important;)
+reddit.com##.scroll-is-blocked:style(overflow: auto !important; position: static !important;)
+reddit.com##.shreddit-pagination:style(margin-bottom: 0rem !important; padding: 0rem 1rem 0.5rem !important;)
+reddit.com##.sidebar-grid:style(filter: none !important;)
+reddit.com##.slideimagemaindiv[style="object-fit: cover;"][src]:style(object-fit: contain !important;)
+reddit.com##.subreddit-content-error > .order-last
+reddit.com##.topics-links-block
+reddit.com##.topnav__promobutton
+reddit.com##.topnav__useappbutton
+reddit.com##.topposts
+reddit.com##.xpromoappstorefooter
+reddit.com##.xpromoblockingmodal
+reddit.com##.xpromoblockingmodalrpl
+reddit.com##.xpromobottombar
+reddit.com##.xpromochoicebanner
+reddit.com##.xpromoinfeed
+reddit.com##.xpromonsfwblocking__warning
+reddit.com##.xpromonsfwblockingmodal
+reddit.com##.xpromopill
+reddit.com##.xpromopopup
+reddit.com##.xpromopopuprpl
+reddit.com##.xpromopopuprplnew
+reddit.com##body:style(overflow: auto !important; position: static !important; pointer-events: auto !important; touch-action: auto !important;)
+reddit.com##button[id$="-read-more-button"]
+reddit.com##div[class*="safe-area-inset-bottom"]
+reddit.com##div[class^="sidebar-grid"][class$="fixed"]:style(position: static !important;)
+reddit.com##div[id$="-overflow-cover"]
+reddit.com##div[id$="-post-rtjson-content"]:style(max-height: fit-content !important;)
+reddit.com##faceplate-tracker[noun="campaign_slot"][source="nav"]
+reddit.com##faceplate-tracker[noun="campaign_slot"][source="nav"] + hr
+reddit.com##faceplate-tracker[noun="top_button"][source="xpromo"]
+reddit.com##img[class="_1VSyzeCqhLG-H2N68kAx9V _3UqAK6QeNaMYy-9jvRefdv"]:style(filter: none !important;)
+reddit.com##shreddit-ad-post
+reddit.com##shreddit-app:style(padding: var(--shreddit-header-height) 0rem 0rem !important;)
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
+reddit.com##shreddit-async-loader[bundlename="bottom_bar_xpromo"]
+reddit.com##shreddit-async-loader[bundlename="faceplate_alerts"]
+reddit.com##shreddit-async-loader[bundlename="nsfw_blocking_modal"]
+reddit.com##shreddit-async-loader[bundlename="nsfw_blocking_modal"]:remove()
+reddit.com##shreddit-async-loader[bundlename="post_deletion_modal"]
+reddit.com##shreddit-async-loader[bundlename="rpl_continue_chat_in_app"]
+reddit.com##shreddit-async-loader[bundlename="top_button"][paint-group="xpromo"]
+reddit.com##shreddit-comments-page-ad
+reddit.com##shreddit-experience-tree
+reddit.com##shreddit-experience-tree:remove()
+reddit.com##shreddit-overlay-display
+reddit.com##shreddit-overlay-display:remove()
+reddit.com##shreddit-post[view-context^="ListingBelow"][view-context$="Posts"]
+reddit.com##shreddit-rereddit-promo
+reddit.com##slot[name="use-app"]
+reddit.com##xpromo-app-selector
+reddit.com##xpromo-footer
+reddit.com##xpromo-new-app-selector
+reddit.com##xpromo-new-nsfw-blocking-modal
+reddit.com##xpromo-nsfw-blocking-container[slot="blurred"]
+reddit.com##xpromo-nsfw-blocking-modal
+reddit.com##xpromo-untagged-content-blocking-modal
+reddit.com##xpromo-untagged-content-blocking-modal:remove()
+
+coupons.slickdeals.net##.bp-c-tooltip
+coupons.slickdeals.net##.bp-p-couponHub_appInstallCTA
+coupons.slickdeals.net##.bp-p-extensionPromoBanner
+coupons.slickdeals.net##.bp-p-newsletterRegistrationForm
+coupons.slickdeals.net##.bp-p-scrollToTopButton
+slickdeals.net##+js(rc, pushToAppDrawerScrollLock, body, stay)
+slickdeals.net##.addComment
+slickdeals.net##.addCommentButton
+slickdeals.net##.addCommentContainer > .ftcDisclaimer:upward(1)
+slickdeals.net##.announcementBar
+slickdeals.net##.bottomFullBar
+slickdeals.net##.bp-p-cashbackActivationSignupBanner
+slickdeals.net##.bp-p-cashbackActivationSignupBanner_wrapper
+slickdeals.net##.bp-p-cashbackDealCardPromo
+slickdeals.net##.bp-p-dealCashbackStatus_wrapper
+slickdeals.net##.bp-p-slickdealsHeader_disclaimer
+slickdeals.net##.cashbackDealCardPromo:upward(1)
+slickdeals.net##.commentReactionsOptions
+slickdeals.net##.commentsAd
+slickdeals.net##.dealActions:style(border-bottom: 0px solid #ccc !important;)
+slickdeals.net##.dealAlertRow
+slickdeals.net##.extensionSearchBanner
+slickdeals.net##.frontpageGrid__bannerAd
+slickdeals.net##.frontpageSlickdealsGrid__bannerAd
+slickdeals.net##.ftcDisclaimer
+slickdeals.net##.js-inlineReply
+slickdeals.net##.js-questionAndAnswer_askQuestion
+slickdeals.net##.mainSearchContent > .searchWrapper > .ab
+slickdeals.net##.mobileAdFluid
+slickdeals.net##.newsletterSignUp
+slickdeals.net##.omegaBanner
+slickdeals.net##.pageWrapper > .details-wrapper > .details-header:has-text(Posted):style(border-bottom: 0px !important;)
+slickdeals.net##.push
+slickdeals.net##.rightRep
+slickdeals.net##.sdModalOverlay
+slickdeals.net##.searchBottomAd
+slickdeals.net##.slickdealsFooter:style(margin-top: 0px !important;)
+slickdeals.net##.slickdealsHeader__disclaimer
+slickdeals.net##.welcomeToast
+slickdeals.net##body:style(overflow: auto !important;)
+slickdeals.net##div[data-module-name="Category RCM Inline"]
+slickdeals.net##div[data-module-name="Top Categories"]
+slickdeals.net##div[data-module-name="trending-stores"]
+slickdeals.net##div[role="threadrating"]
+
+m.youtube.com##.music-metadata-premium-upsell-link
+youtube.com##.branding-img-container
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-chrome-top-buttons
+youtube.com##.ytp-endscreen-content
+youtube.com##yt-live-chat-viewer-engagement-message-renderer
+youtube.com##yt-mealbar-promo-renderer
+youtube.com##ytd-popup-container:has-text(Join this channel and unlock members-only perks)
+!================================================================================
+
+!amp.reddit.com##.AppSelectorModal__body
+!amp.reddit.com##.upsell_banner
+!reddit.com##.XPromoInFeed
+!reddit.com##.XPromoPopup
+!reddit.com##.promotedlink
+!reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+!www.reddit.com##+js(aeld, touchmove)
+!www.reddit.com##.XPromoPopupRpl
+!www.reddit.com##.XPromoPopupRplNew
+!www.reddit.com##.bottom-bar, .XPromoBottomBar
+!www.reddit.com##.masthead
+!www.reddit.com##.useApp,.TopNav__promoButton
+!www.reddit.com##[aria-label="Related content"]
+!www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
+!www.reddit.com##body:style(pointer-events:auto!important;)
+!www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
+!www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
+!www.reddit.com##xpromo-app-selector
+!www.reddit.com##xpromo-new-app-selector
+!www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+!www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+
+!slickdeals.net###adSlot1
+!slickdeals.net###ads-bottom
+!slickdeals.net###bottomDDAd
+!slickdeals.net###categoryRcm-ContentModule > .bp-c-panel_header
+!slickdeals.net###commentsSection > .showThreadAd.ad
+!slickdeals.net###logoarea
+!slickdeals.net###moreStoreDealsRcm-ContentModule > .bp-c-panel_header
+!slickdeals.net###popularDealsRcm-ContentModule > .bp-c-panel_header
+!slickdeals.net###trendingDealsRcm-ContentModule > .bp-c-panel_header
+!slickdeals.net##.activeDeal.dealStats.box
+!slickdeals.net##.announcementBar
+!slickdeals.net##.box.adGroup
+!slickdeals.net##.box.bottomDDAd
+!slickdeals.net##.commentsAd
+!slickdeals.net##.frontpageGrid__bannerAd
+!slickdeals.net##.frontpageRecommendationCarousel
+!slickdeals.net##.modal-modern.modal
+!slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColumn
+!slickdeals.net##.prevalidate.newsletterSignUp
+!slickdeals.net##.stickyRightRailWrapper
+!slickdeals.net##.welcomeToast
+!slickdeals.net#$##bottomFullBar { display: none !important; }
+!slickdeals.net#$#.sdModalOverlay { display: none !important; }
+!slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
+!slickdeals.net#$#div[data-bar-name="pushToApp"] { display: none !important; }
