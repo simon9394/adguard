@@ -274,11 +274,11 @@ youtube.com##ytd-popup-container:has-text(Join this channel and unlock members-o
 !slickdeals.net##.box.bottomDDAd
 !slickdeals.net##.commentsAd
 !slickdeals.net##.frontpageGrid__bannerAd
-!slickdeals.net##.frontpageRecommendationCarousel
-!slickdeals.net##.modal-modern.modal
+slickdeals.net##.frontpageRecommendationCarousel
+slickdeals.net##.modal-modern.modal
 !slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColumn
 !slickdeals.net##.prevalidate.newsletterSignUp
-!slickdeals.net##.stickyRightRailWrapper
+slickdeals.net##.stickyRightRailWrapper
 !slickdeals.net##.welcomeToast
 !slickdeals.net#$##bottomFullBar { display: none !important; }
 !slickdeals.net#$#.sdModalOverlay { display: none !important; }
