@@ -8,32 +8,6 @@ www.google.com###tvcap
 www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
 
-/annotations_module.js$script,important,domain=youtube.com
-/endscreen.js$script,important,domain=youtube.com
-m.youtube.com##lazy-list > ad-slot-renderer
-m.youtube.com##ytm-companion-slot[data-content-type] > ytm-companion-ad-renderer
-m.youtube.com##ytm-rich-item-renderer > ad-slot-renderer
-www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
-www.youtube.com##.ytp-cards-teaser
-www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-featured-product
-www.youtube.com##ytd-reel-shelf-renderer
-www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
-www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
-youtube.com###masthead-ad
-youtube.com###player-ads
-youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)
-youtube.com##.YtdShortsSuggestedActionStaticHostContainer
-youtube.com##.ytd-merch-shelf-renderer
-youtube.com##.ytp-button.branding-img-container
-youtube.com##.ytp-button.ytp-cards-button
-youtube.com##.ytp-suggested-action > button.ytp-suggested-action-badge
-youtube.com##ytd-ad-slot-renderer
-youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|No thanks|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
-youtube.com##ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
-youtube.com##ytd-search-pyv-renderer
-||i.ytimg.com/vi/*&rs$image,removeparam=rs
-
 outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
@@ -47,6 +21,16 @@ x.com##[aria-label="who to follow" i]:upward(1)
 x.com##[aria-label^="Want less ads"]:upward(1)
 x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
 x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+
+slickdeals.net##.activeDeal.dealStats.box
+slickdeals.net##.commentsSectionFooter__callToActionBox
+slickdeals.net##.frontpageAd__middleBanner
+slickdeals.net##.frontpageGrid__bannerAd
+slickdeals.net##.frontpageRecommendationCarousel
+slickdeals.net##.leaveAComment
+slickdeals.net##.megaBanner
+slickdeals.net##.modal-modern.modal
+slickdeals.net##.stickyRightRailWrapper
 
 dictionary.cambridge.org##.lmt-10.lt2s.hfr-s
 dictionary.cambridge.org##.lp-s_t-0.lp-s_25.lpt-15.lp-10
@@ -280,57 +264,3 @@ m.youtube.com##ytm-video-with-context-renderer:has(a[href*="/shorts/"])
 ! YT Mobile - Hide the Shorts button on Channels
 m.youtube.com##tp-yt-paper-tab[aria-label="Shorts"]
 !================================================================================
-
-!amp.reddit.com##.AppSelectorModal__body
-!amp.reddit.com##.upsell_banner
-!reddit.com##.XPromoInFeed
-!reddit.com##.XPromoPopup
-!reddit.com##.promotedlink
-!reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-!www.reddit.com##+js(aeld, touchmove)
-!www.reddit.com##.XPromoPopupRpl
-!www.reddit.com##.XPromoPopupRplNew
-!www.reddit.com##.bottom-bar, .XPromoBottomBar
-!www.reddit.com##.masthead
-!www.reddit.com##.useApp,.TopNav__promoButton
-!www.reddit.com##[aria-label="Related content"]
-!www.reddit.com##body.scroll-is-blocked:style(overflow: visible!important; position: static!important;)
-!www.reddit.com##body:style(pointer-events:auto!important;)
-!www.reddit.com##body[style*="overflow"]:style(overflow:auto!important;)
-!www.reddit.com##body[style*="pointer-events"]:style(pointer-events:auto!important;)
-!www.reddit.com##xpromo-app-selector
-!www.reddit.com##xpromo-new-app-selector
-!www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
-!www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
-
-!slickdeals.net###adSlot1
-!slickdeals.net###ads-bottom
-!slickdeals.net###bottomDDAd
-!slickdeals.net###categoryRcm-ContentModule > .bp-c-panel_header
-!slickdeals.net###commentsSection > .showThreadAd.ad
-!slickdeals.net###logoarea
-!slickdeals.net###moreStoreDealsRcm-ContentModule > .bp-c-panel_header
-!slickdeals.net###popularDealsRcm-ContentModule > .bp-c-panel_header
-!slickdeals.net###trendingDealsRcm-ContentModule > .bp-c-panel_header
-!slickdeals.net##.activeDeal.dealStats.box
-!slickdeals.net##.announcementBar
-!slickdeals.net##.box.adGroup
-!slickdeals.net##.box.bottomDDAd
-!slickdeals.net##.commentsAd
-!slickdeals.net##.moreDeals.showTopLine.relatedCategory.relatedDeals.box.leftColumn
-!slickdeals.net##.prevalidate.newsletterSignUp
-!slickdeals.net##.welcomeToast
-!slickdeals.net#$##bottomFullBar { display: none !important; }
-!slickdeals.net#$#.sdModalOverlay { display: none !important; }
-!slickdeals.net#$#body.pushToAppDrawerScrollLock { overflow: auto !important; }
-!slickdeals.net#$#div[data-bar-name="pushToApp"] { display: none !important; }
-
-slickdeals.net##.activeDeal.dealStats.box
-slickdeals.net##.commentsSectionFooter__callToActionBox
-slickdeals.net##.frontpageAd__middleBanner
-slickdeals.net##.frontpageGrid__bannerAd
-slickdeals.net##.frontpageRecommendationCarousel
-slickdeals.net##.leaveAComment
-slickdeals.net##.megaBanner
-slickdeals.net##.modal-modern.modal
-slickdeals.net##.stickyRightRailWrapper
