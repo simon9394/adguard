@@ -3,215 +3,216 @@
 !----------------------------------------
 !Questionable
 !----------------------------------------
-@@||app-measurement.com^$important
-@@||cws.conviva.com^$important
-@@||events.launchdarkly.com^$important
-@@||js-agent.newrelic.com^$important
-@@||mobile-collector.newrelic.com^$important
+@@||app-measurement.com^
+@@||cws.conviva.com^
+@@||events.launchdarkly.com^
+@@||js-agent.newrelic.com^
+@@||mobile-collector.newrelic.com^
 
 !----------------------------------------
 !Web
 !----------------------------------------
 !AliExpress
-@@||ali.ski^$important
-@@||s.click.aliexpress.com^$important
+@@||ali.ski^
+@@||s.click.aliexpress.com^
 
 !Apple Podcast
-@@||chtbl.com^$important
+@@||chtbl.com^
 
 !Autozone change store location
-@@||liveapi.yext.com^$important
+@@||liveapi.yext.com^
 
 !Beacon Health (JL)
-@@||beaconhealthoptions.com^$important
+@@||beaconhealthoptions.com^
 
 !Bestbuy
-@@||bestbuy.com.ssl.sc.omtrdc.net^$important
-@@||bestbuy.demdex.net^$important
+@@||bestbuy.com.ssl.sc.omtrdc.net^
+@@||bestbuy.demdex.net^
 
 !Costco
-@@||smetrics.costco.com^$important
+@@||smetrics.costco.com^
 
 !Discord
-@@||media.discordapp.net^$important
-@@||images-ext-1.discordapp.net^$important
+@@||media.discordapp.net^
+@@||images-ext-1.discordapp.net^
 
 !Etrade
-@@||manifest.localytics.com^$important
-@@||manifest.53.localytics.com^$important
+@@||manifest.localytics.com^
+@@||manifest.53.localytics.com^
 
 !Home Depot
-@@||cdn.quantummetric.com^$important
-@@||customer.homedepot.com^$important
-@@||h-homedepot.online-metrix.net^$important
-@@||homedepot.tt.omtrdc.net^$important
-@@||weeklycirculars.homedepot.com^$important
+@@||cdn.quantummetric.com^
+@@||customer.homedepot.com^
+@@||h-homedepot.online-metrix.net^
+@@||homedepot.tt.omtrdc.net^
+@@||weeklycirculars.homedepot.com^
 
 !Hoopla
-@@||hoopladigital.com^$important
+@@||hoopladigital.com^
 
 !Lenovo
-@@||bluecore.com^$important
+@@||bluecore.com^
 
 !NY.gov
-@@||click.pstmrk.it^$important
+@@||click.pstmrk.it^
 
 !Rapidgator CAPTCHA code
-@@||api-secure.solvemedia.com^$important
+@@||api-secure.solvemedia.com^
 
 !Samsung
-@@||js.datadome.co^$important
+@@||js.datadome.co^
 
 !Target
-@@||img9.target.com^$important
-@@||h-target.online-metrix.net^$important
+@@||img9.target.com^
+@@||h-target.online-metrix.net^
 
 !Twitter
-@@||pbs.twimg.com^$important
-@@||t.co^$important
+@@||pbs.twimg.com^
+@@||t.co^
 
 !TravelZoo
-@@||servedby.flashtalking.com^$important
+@@||servedby.flashtalking.com^
 
 !vChannel
-@@||feeder.ocry.com^$important
-@@||rss.ikwb.com^$important
+@@||feeder.ocry.com^
+@@||rss.ikwb.com^
 
 !Vera Bradley
-@@||d26opx5dl8t69i.cloudfront.net^$important
-@@||rfksrv.com^$important
+@@||d26opx5dl8t69i.cloudfront.net^
+@@||rfksrv.com^
 
 !Verizon online chat via web & app
-@@||sdk.asapp.com^$important
-@@||verizon.asapp.com^$important
+@@||sdk.asapp.com^
+@@||verizon.asapp.com^
 
 !Yahoo Finance
-@@||m.yap.yahoo.com^$important
+@@||m.yap.yahoo.com^
 
 !Zillow
-@@||captcha.px-cdn.net^$important
-@@||collector-pxhyx10rg3.perimeterx.net^$important
-@@||collector-pxhyx10rg3.px-cloud.net^$important
-@@||px-conf.perimeterx.net^$important
+@@||captcha.px-cdn.net^
+@@||collector-pxhyx10rg3.perimeterx.net^
+@@||collector-pxhyx10rg3.px-cloud.net^
+@@||px-conf.perimeterx.net^
 
 !----------------------------------------
 !General
 !----------------------------------------
 !Unblock vids
-@@||wss.analyticacdn.com^$important
+@@||wss.analyticacdn.com^
 
 !Unblock images in reviews on various sites
-@@||photos-us.bazaarvoice.com^$important
+@@||photos-us.bazaarvoice.com^
 
 !----------------------------------------
 !Banks
 !----------------------------------------
-@@||analytics.robinhood.com^$important
-@@||citicorpcreditservic.tt.omtrdc.net^$important
-@@||content22.citicards.com^$important
-@@||content22.online.citi.com^$important
-@@||go.ml.com^$important
+@@||analytics.robinhood.com^
+@@||citicorpcreditservic.tt.omtrdc.net^
+@@||content22.citicards.com^
+@@||content22.online.citi.com^
+@@||go.ml.com^
 !Chase Fraud Prevention
-@@||tracking.csgipe.com^$important
+@@||tracking.csgipe.com^
 
 !----------------------------------------
 !Streaming
 !----------------------------------------
-@@||customerevents.netflix.com^$important
-@@||ichnaea.netflix.com^$important
-@@||telegraph.api.hbo.com^$important
-@@||wl.spotify.com^$important
+@@||customerevents.netflix.com^
+@@||ichnaea.netflix.com^
+@@||telegraph.api.hbo.com^
+@@||wl.spotify.com^
 
 !----------------------------------------
 !Email
 !----------------------------------------
 !Unblock various email images
-@@||exacttarget.com.edgekey.net^$important
+@@||exacttarget.com.edgekey.net^
 
 !Unblock Costco email images and tracking info
-@@||email-tracking.infobip.com^$important
-@@||tracking.costco.com^$important
+@@||email-tracking.infobip.com^
+@@||tracking.costco.com^
 
 !Unblock Etrade email images
-@@||image.e.etradefinancial.com^$important
+@@||image.e.etradefinancial.com^
 
 !Unblock Home Depot email images
-@@||assets.micpn.com^$important
+@@||assets.micpn.com^
 
 !Unblock Macy email images
-@@||static.cdn.responsys.net^$important
+@@||static.cdn.responsys.net^
 !Unsubscribe Emails
-@@||sendgrid.net^$important
+@@||sendgrid.net^
 
 !Unblock varioius sites to unsubscribe email
-@@||t.eloqua.com^$important
-@@||s7.exacttarget.com^$important
+@@||t.eloqua.com^
+@@||s7.exacttarget.com^
 
 !----------------------------------------
 !Amazon
 !----------------------------------------
-@@||kinesis.us-east-1.amazonaws.com^$important
+@@||kinesis.us-east-1.amazonaws.com^
 !Android app
-@@||aan.amazon.com^$important
+@@||aan.amazon.com^
 
 !----------------------------------------
 !Google
 !----------------------------------------
-@@||ad.doubleclick.net^$important
-@@||beacons.gcp.gvt2.com^$important
-@@||beacons.gvt2.com^$important
-@@||beacons2.gvt2.com^$important
-@@||beacons3.gvt2.com^$important
-@@||beacons4.gvt2.com^$important
-@@||beacons5.gvt2.com^$important
-@@||beacons5.gvt3.com^$important
-@@||clickserve.dartsearch.net^$important
-@@||fonts.gstatic.com^$important
-@@||google-analytics.com^$important
-@@||googleadapis.l.google.com^$important
-@@||googleadservices.com^$important
-@@||googleapis.com^$important
-@@||googletagmanager.com^$important
-@@||gstaticadssl.l.google.com^$important
-@@||pagead.l.doubleclick.net^$important
-@@||pubads.g.doubleclick.net^$important
-@@||s.youtube.com^$important
-@@||ssl-google-analytics.l.google.com^$important
+@@||ad.doubleclick.net^
+@@||beacons.gcp.gvt2.com^
+@@||beacons.gvt2.com^
+@@||beacons2.gvt2.com^
+@@||beacons3.gvt2.com^
+@@||beacons4.gvt2.com^
+@@||beacons5.gvt2.com^
+@@||beacons5.gvt3.com^
+@@||clickserve.dartsearch.net^
+@@||fonts.gstatic.com^
+@@||google-analytics.com^
+@@||googleadapis.l.google.com^
+@@||googleadservices.com^
+@@||googleapis.com^
+@@||googletagmanager.com^
+@@||gstaticadssl.l.google.com^
+@@||pagead.l.doubleclick.net^
+@@||pubads.g.doubleclick.net^
+@@||s.youtube.com^
+@@||ssl-google-analytics.l.google.com^
 
 !----------------------------------------
 !Microsoft
 !----------------------------------------
-@@||browser.pipe.aria.microsoft.com^$important
-@@||go.trouter.skype.com^$important
-@@||self.events.data.microsoft.com^$important
+@@||browser.pipe.aria.microsoft.com^
+@@||go.trouter.skype.com^
+@@||self.events.data.microsoft.com^
 
 !----------------------------------------
 !CBS Live via web & app
 !----------------------------------------
-@@||agkn.com^$important
-@@||amlg.io^$important
-@@||apis.anvato.net^$important
-@@||at.cbsi.com^$important
-@@||cbsdigitalmedia.d1.sc.omtrdc.net^$important
-@@||cbsi.com.ssl.sc.omtrdc.net^$important
-@@||cbsi.demdex.net^$important
-@@||cbsinteractive.hb.omtrdc.net^$important
-@@||cbsivideo.com^$important
-@@||cbsnews.com.ssl.sc.omtrdc.net^$important
-@@||cdn.anvato.net^$important
-@@||cdn.cookielaw.org^$important
-@@||gcdn.anvato.net^$important
-@@||geolocation.onetrust.com^$important
-@@||production-cmp.isgprivacy.cbsi.com^$important
-@@||saa.cbsi.com^$important
-@@||saa.cbsnews.com^$important
-@@||v.fwmrm.net^$important
-!@@||pubads.g.doubleclick.net^$important #Listed under Google
+@@||agkn.com^
+@@||amlg.io^
+@@||apis.anvato.net^
+@@||at.cbsi.com^
+@@||cbsdigitalmedia.d1.sc.omtrdc.net^
+@@||cbsi.com.ssl.sc.omtrdc.net^
+@@||cbsi.demdex.net^
+@@||cbsinteractive.hb.omtrdc.net^
+@@||cbsivideo.com^
+@@||cbsnews.com.ssl.sc.omtrdc.net^
+@@||cdn.anvato.net^
+@@||cdn.cookielaw.org^
+@@||gcdn.anvato.net^
+@@||geolocation.onetrust.com^
+@@||production-cmp.isgprivacy.cbsi.com^
+@@||saa.cbsi.com^
+@@||saa.cbsnews.com^
+@@||v.fwmrm.net^
+!@@||pubads.g.doubleclick.net^ #Listed under Google
 
 !----------------------------------------
 !Slickdeals
 !----------------------------------------
 @@||7eer.net^
+@@||adzerk.net^
 @@||anrdoezrs.net^
 @@||apiservices.krxd.net^
 @@||avantlink.com^
@@ -221,7 +222,6 @@
 @@||click.linksynergy.com^
 @@||clicks.tyuwq.com^
 @@||dpbolvw.net^
-@@||e-10293.adzerk.net^
 @@||emjcd.com^
 @@||evyy.net^important
 @@||go.redirectingat.com^
