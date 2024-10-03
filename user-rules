@@ -38,13 +38,14 @@ outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
 
+x.com##[aria-label$="pinned by people you follow" i]
 x.com##[aria-label$="relevant people" i]
 x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
 x.com##[aria-label$="subscribe to premium" i]
 x.com##[aria-label$="trending now" i]
-x.com##[aria-label="Get Verified"]
-x.com##[aria-label="who to follow" i]:upward(1)
-x.com##[aria-label^="Want less ads"]:upward(1)
+x.com##[aria-label$="who to follow" i]
+x.com##[aria-label="get verified"]
+x.com##[aria-label^="want less ads"]:upward(1)
 x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
 x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 
