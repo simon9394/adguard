@@ -1,0 +1,47 @@
+coupons.slickdeals.net##.bp-c-tooltip
+coupons.slickdeals.net##.bp-p-couponHub_appInstallCTA
+coupons.slickdeals.net##.bp-p-extensionPromoBanner
+coupons.slickdeals.net##.bp-p-newsletterRegistrationForm
+coupons.slickdeals.net##.bp-p-scrollToTopButton
+slickdeals.net##.activeDeal.dealStats.box
+slickdeals.net##.addComment
+slickdeals.net##.addCommentButton
+slickdeals.net##.addCommentContainer > .ftcDisclaimer:upward(1)
+slickdeals.net##.announcementBar
+slickdeals.net##.bottomFullBar
+slickdeals.net##.bp-p-cashbackActivationSignupBanner
+slickdeals.net##.bp-p-cashbackActivationSignupBanner_wrapper
+slickdeals.net##.bp-p-cashbackDealCardPromo
+slickdeals.net##.bp-p-dealCashbackStatus_wrapper
+slickdeals.net##.bp-p-slickdealsHeader_disclaimer
+slickdeals.net##.commentReactionsOptions
+slickdeals.net##.commentsAd
+slickdeals.net##.commentsSectionFooter__callToActionBox
+slickdeals.net##.dealAlertRow
+slickdeals.net##.extensionSearchBanner
+slickdeals.net##.frontpageAd__middleBanner
+slickdeals.net##.frontpageGrid__bannerAd
+slickdeals.net##.frontpageGrid__bannerAd
+slickdeals.net##.frontpageRecommendationCarousel
+slickdeals.net##.frontpageSlickdealsGrid__bannerAd
+slickdeals.net##.ftcDisclaimer
+slickdeals.net##.js-inlineReply
+slickdeals.net##.js-questionAndAnswer_askQuestion
+slickdeals.net##.leaveAComment
+slickdeals.net##.megaBanner
+slickdeals.net##.mobileAdFluid
+slickdeals.net##.modal-modern.modal
+slickdeals.net##.newsletterSignUp
+slickdeals.net##.omegaBanner
+slickdeals.net##.push
+slickdeals.net##.rightRep
+slickdeals.net##.sdModalOverlay
+slickdeals.net##.searchBottomAd
+slickdeals.net##.slickdealsFooter:style(margin-top: 0px !important;)
+slickdeals.net##.slickdealsHeader__disclaimer
+slickdeals.net##.stickyRightRailWrapper
+slickdeals.net##.welcomeToast
+slickdeals.net##div[data-module-name="Category RCM Inline"]
+slickdeals.net##div[data-module-name="Top Categories"]
+slickdeals.net##div[data-module-name="trending-stores"]
+slickdeals.net##div[role="threadrating"]
