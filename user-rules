@@ -8,32 +8,6 @@ www.google.com###tvcap
 www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
 
-/annotations_module.js$script,important,domain=youtube.com
-/endscreen.js$script,important,domain=youtube.com
-m.youtube.com##lazy-list > ad-slot-renderer
-m.youtube.com##ytm-companion-slot[data-content-type] > ytm-companion-ad-renderer
-m.youtube.com##ytm-rich-item-renderer > ad-slot-renderer
-youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
-youtube.com###masthead-ad
-youtube.com###player-ads
-youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)
-youtube.com##.YtdShortsSuggestedActionStaticHostContainer
-youtube.com##.ytd-merch-shelf-renderer
-youtube.com##.ytp-button.branding-img-container
-youtube.com##.ytp-button.ytp-cards-button
-youtube.com##.ytp-cards-teaser
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-featured-product
-youtube.com##.ytp-suggested-action > button.ytp-suggested-action-badge
-youtube.com##ytd-ad-slot-renderer
-youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|No thanks|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
-youtube.com##ytd-reel-shelf-renderer
-youtube.com##ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
-youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
-youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
-youtube.com##ytd-search-pyv-renderer
-||i.ytimg.com/vi/*&rs$image,removeparam=rs
-
 outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
