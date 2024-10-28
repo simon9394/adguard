@@ -40,6 +40,9 @@ slickdeals.net##.topCategories
 slickdeals.net##div.relatedDeals
 slickdeals.net##div.slickdealsSidebar__container
 
+x.com##[data-testid="cellInnerDiv"] [aria-label^="Follow"]:upward([data-testid="cellInnerDiv"])
+x.com##[data-testid="cellInnerDiv"] [href^="/i/connect_people"]
+x.com##[data-testid="cellInnerDiv"] h2:has-text(Who to follow)
 x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
 
 nypost.com##.breaking-news
