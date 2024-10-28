@@ -1,7 +1,9 @@
 ! Title: reddit
 
 ||reddit.com/*/comments/*$uritransform=/(^(?!.*sort=new$).*)/\$1?sort=new/
+www.reddit.com##.m-active.XPromoBlockingModalRpl
 www.reddit.com##.w-full.masthead
 www.reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[slot="content"], #faceplate-tooltip
 www.reddit.com##[bundlename="desktop_rpl_nsfw_blocking_modal"]:remove()
+www.reddit.com##+js(rc, m-blurred, , stay)
 www.reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
