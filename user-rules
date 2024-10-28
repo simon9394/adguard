@@ -15,6 +15,31 @@ outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
 
+reddit.com##.nd\:visible.hidden.community-highlight-carousel
+reddit.com##.w-full.masthead
+reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[slot="content"], #faceplate-tooltip
+reddit.com##shreddit-comment[author="AutoModerator"]
+
+slickdeals.net##.bp-p-trendingStores
+slickdeals.net##.commentsSectionAuthBanner
+slickdeals.net##.dealActions
+slickdeals.net##.dealAlertBar
+slickdeals.net##.dealDetailsPage__sidebar.dealDetailsSidebar
+slickdeals.net##.dealDetailsSidebar__container
+slickdeals.net##.dealDetailsStickyBar
+slickdeals.net##.frontpageMobileRecommendationCarousel
+slickdeals.net##.frontpageRecommendationCarousel
+slickdeals.net##.prevalidate.newsletterSignUp
+slickdeals.net##.sectionHeader--carousel.sectionHeader
+slickdeals.net##.slickdealsFooter
+slickdeals.net##.slickdealsHeader__disclaimer
+slickdeals.net##.slickdealsHeader__iconSection
+slickdeals.net##.slickdealsHeader_logo.slickdealsHeaderLogo
+slickdeals.net##.stickyRightRailWrapper
+slickdeals.net##.topCategories
+slickdeals.net##div.relatedDeals
+slickdeals.net##div.slickdealsSidebar__container
+
 x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
 
 nypost.com##.breaking-news
