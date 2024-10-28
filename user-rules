@@ -1,6 +1,10 @@
 ! Title: user-rules
 
+duckduckgo.com##.footer
+duckduckgo.com##.has-preview.js-module--videos.module--carousel-videos.module--carousel.module
 duckduckgo.com##[data-layout="ad"]
+duckduckgo.com##[data-layout="images"]
+duckduckgo.com##[data-layout="news"]
 
 google.*##.kSMK2
 google.*##[id^="eob_"]
