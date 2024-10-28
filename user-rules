@@ -4,7 +4,6 @@ duckduckgo.com##[data-layout="ad"]
 
 google.*##.kSMK2
 google.*##[id^="eob_"]
-www.google.com###tvcap
 www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
 
@@ -56,29 +55,18 @@ www.ldoceonline.com##.cols
 www.ldoceonline.com##.home_content
 www.ldoceonline.com##.responsive_cell2
 www.ldoceonline.com##.responsive_row.footer
-www.merriam-webster.com###citations
-www.merriam-webster.com###left-content > .clearfix
-www.merriam-webster.com###social-links
 www.merriam-webster.com##.additional-content-area
 www.merriam-webster.com##.content-section-with-header.more-from.widget
 www.merriam-webster.com##.global-footer
 www.merriam-webster.com##.home-redesign-layout
 www.merriam-webster.com##.non-sticky.fixed-wrapper
 www.merriam-webster.com##.position-relative.w-100.bg-mw-black.container-top-ads
-www.oxfordlearnersdictionaries.com###flex-header-container
-www.oxfordlearnersdictionaries.com###homeleft > .responsive_row
-www.oxfordlearnersdictionaries.com###ring-links-box
 www.oxfordlearnersdictionaries.com##.dictionary_banner
 www.oxfordlearnersdictionaries.com##.dictlink-g
 www.oxfordlearnersdictionaries.com##.oup-footer
 www.oxfordlearnersdictionaries.com##.parallax-container
 www.oxfordlearnersdictionaries.com##.row_static_items.row
 www.oxfordlearnersdictionaries.com##.topic.wotd-box
-www.thefreedictionary.com###SubscrSlider
-www.thefreedictionary.com###fHP
-www.thefreedictionary.com###footer
-www.thefreedictionary.com###headerBlock
-www.thefreedictionary.com###sidebar
 www.thefreedictionary.com##.content-holder > aside
 www.thefreedictionary.com##.sticky.fixed-block
 www.thefreedictionary.com##.w2 > div > div
@@ -88,5 +76,4 @@ www.thesaurus.com##.Cl8rAJN4wBETC2TTA2vN
 www.thesaurus.com##.CommonQuizModule-module_root_f1ed2e657e5ba7533a2a
 www.thesaurus.com##.MMaaxw9g8UQaSLzBAbKf
 www.thesaurus.com##.wqefwiyMW90zdJbSv7Hs
-www.wordreference.com###rightcolumn
 www.wordreference.com##.info
