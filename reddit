@@ -1,12 +1,5 @@
 ! Title: reddit
 
-||reddit.com/*/comments/*$uritransform=/(^(?!.*sort=new$).*)/\$1?sort=new/
-reddit.com##.m-active.XPromoBlockingModalRpl
+reddit.com##.nd\:visible.hidden.community-highlight-carousel
 reddit.com##.w-full.masthead
 reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[slot="content"], #faceplate-tooltip
-reddit.com##[bundlename="desktop_rpl_nsfw_blocking_modal"]:remove()
-reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
-reddit.com##+js(rc, m-blurred, , stay)
-reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
-reddit.com##shreddit-async-loader[bundlename="app_selector"]
-reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
