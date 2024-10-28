@@ -43,6 +43,7 @@ slickdeals.net##div.slickdealsSidebar__container
 x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
 
 nypost.com##.breaking-news
+nypost.com##.comments-inline-cta
 nypost.com##.d-block-md.d-none.b-bottom--thick.b-bottom--black.b-bottom.p-bottom-half.module--m-top-none.module--promo.module
 nypost.com##.layout__grid--gap-30.layout__grid > .layout__item--sidebar.layout__item
 nypost.com##.layout__inner > .single__outbrain
