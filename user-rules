@@ -46,6 +46,10 @@ x.com##[data-testid="cellInnerDiv"] [href^="/i/connect_people"]
 x.com##[data-testid="cellInnerDiv"] h2:has-text(Who to follow)
 x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
 
+youtube.com##.ytp-ce-large-round
+youtube.com##.ytp-chrome-top
+youtube.com##.ytp-endscreen-content
+
 nypost.com##.breaking-news
 nypost.com##.comments-inline-cta
 nypost.com##.d-block-md.d-none.b-bottom--thick.b-bottom--black.b-bottom.p-bottom-half.module--m-top-none.module--promo.module
