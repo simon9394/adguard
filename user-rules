@@ -62,6 +62,9 @@ nypost.com##.site-container.breaking-news-container
 nypost.com##.site-footer
 nypost.com##.wp-block-nypost-editor-newsletter.aligncenter.inline-module--newsletter.inline-module.single__inline-module
 nypost.com##.wp-block-nypost-editor-primary-tag.aligncenter.single__inline-module
+nypost.com##aside.single__inline-module.alignleft
+nypost.com##aside.single__inline-module.alignright
+nypost.com##div.in-line-column.wp-caption.alignleft
 
 dictionary.cambridge.org##.lmt-10.lt2s.hfr-s
 dictionary.cambridge.org##.lpb-20.lt2s.hfr-s
