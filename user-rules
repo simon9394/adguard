@@ -49,9 +49,14 @@ slickdeals.net##div.relatedDeals
 slickdeals.net##div.slickdealsSidebar__container
 slickdeals.net##us-button
 
+x.com##[aria-label$="relevant people" i]
+x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
 x.com##[aria-label$="subscribe to premium" i]
 x.com##[aria-label$="trending now" i]
 x.com##[aria-label$="who to follow" i]
+x.com##[data-testid="cellInnerDiv"] [aria-label^="Follow"]:upward([data-testid="cellInnerDiv"])
+x.com##[data-testid="cellInnerDiv"] [href^="/i/connect_people"]
+x.com##[data-testid="cellInnerDiv"] h2:has-text(Who to follow)
 x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
 
 youtube.com##.ytp-ce-large-round
