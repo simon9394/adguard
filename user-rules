@@ -21,6 +21,11 @@ reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[s
 reddit.com##shreddit-comment[author="AutoModerator"]
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\].nd\:visible.nd\:overflow-hidden
 
+!
+slickdeals.net##body:style(overflow: auto !important;)
+slickdeals.net##div.bottomBarContainer
+slickdeals.net##div.sdModalOverlay
+!
 slickdeals.net##.bp-p-trendingStores
 slickdeals.net##.commentsSectionAuthBanner
 slickdeals.net##.dealActions
@@ -28,6 +33,7 @@ slickdeals.net##.dealAlertBar
 slickdeals.net##.dealDetailsPage__sidebar.dealDetailsSidebar
 slickdeals.net##.dealDetailsSidebar__container
 slickdeals.net##.dealDetailsStickyBar
+slickdeals.net##.displayAdContainer
 slickdeals.net##.frontpageMobileRecommendationCarousel
 slickdeals.net##.frontpageRecommendationCarousel
 slickdeals.net##.prevalidate.newsletterSignUp
@@ -38,8 +44,10 @@ slickdeals.net##.slickdealsHeader__iconSection
 slickdeals.net##.slickdealsHeader_logo.slickdealsHeaderLogo
 slickdeals.net##.stickyRightRailWrapper
 slickdeals.net##.topCategories
+slickdeals.net##[id^="wrapperAdSlot"]
 slickdeals.net##div.relatedDeals
 slickdeals.net##div.slickdealsSidebar__container
+slickdeals.net##us-button
 
 x.com##[aria-label$="subscribe to premium" i]
 x.com##[aria-label$="trending now" i]
