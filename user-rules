@@ -47,6 +47,7 @@ slickdeals.net##.topCategories
 slickdeals.net##[id^="dynamicAdSlot"]
 slickdeals.net##[id^="wrapperAdSlot"]
 slickdeals.net##div.relatedDeals
+slickdeals.net##div.sideGridBox
 slickdeals.net##div.slickdealsSidebar__container
 slickdeals.net##us-button
 
