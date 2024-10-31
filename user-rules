@@ -44,7 +44,7 @@ slickdeals.net##.slickdealsHeader__iconSection
 slickdeals.net##.slickdealsHeader_logo.slickdealsHeaderLogo
 slickdeals.net##.stickyRightRailWrapper
 slickdeals.net##.topCategories
-slickdeals.net##[id^="wrapperAdSlot"]
+slickdeals.net##[id^="AdSlot"]
 slickdeals.net##div.relatedDeals
 slickdeals.net##div.slickdealsSidebar__container
 slickdeals.net##us-button
