@@ -36,6 +36,7 @@ slickdeals.net##.dealDetailsStickyBar
 slickdeals.net##.displayAdContainer
 slickdeals.net##.frontpageMobileRecommendationCarousel
 slickdeals.net##.frontpageRecommendationCarousel
+slickdeals.net##.modal-modern.modal
 slickdeals.net##.prevalidate.newsletterSignUp
 slickdeals.net##.sectionHeader--carousel.sectionHeader
 slickdeals.net##.slickdealsFooter
@@ -43,6 +44,7 @@ slickdeals.net##.slickdealsHeader__disclaimer
 slickdeals.net##.slickdealsHeader__iconSection
 slickdeals.net##.stickyRightRailWrapper
 slickdeals.net##.topCategories
+slickdeals.net##.welcomeToast
 slickdeals.net##[id^="dynamicAdSlot"]
 slickdeals.net##[id^="wrapperAdSlot"]
 slickdeals.net##div.dealDetailsTabs__tab:last-child
