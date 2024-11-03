@@ -3,8 +3,6 @@
 chatgpt.com##.max-md\:hidden.bg-token-main-surface-primary.font-semibold.h-header-height.z-10.justify-between.items-center.flex.mb-1\.5.p-3.top-0.sticky.no-draggable-children.draggable
 chatgpt.com##.min-h-4
 chatgpt.com##.right-0.left-0.absolute
-perplexity.ai##+js(aeld, wheel, mechanism)
-perplexity.ai###__next > div:not([class]):has(div.fixed svg[data-icon="google"])
 
 duckduckgo.com##.footer
 duckduckgo.com##.has-preview.js-module--videos.module--carousel-videos.module--carousel.module
