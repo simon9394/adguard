@@ -1,9 +1,5 @@
 ! Title: user-rules
 
-chatgpt.com##.max-md\:hidden.bg-token-main-surface-primary.font-semibold.h-header-height.z-10.justify-between.items-center.flex.mb-1\.5.p-3.top-0.sticky.no-draggable-children.draggable
-chatgpt.com##.min-h-4
-chatgpt.com##.right-0.left-0.absolute
-
 duckduckgo.com##.footer
 duckduckgo.com##.has-preview.js-module--videos.module--carousel-videos.module--carousel.module
 duckduckgo.com##[data-layout="ad"]
@@ -68,6 +64,12 @@ x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].
 youtube.com##.ytp-ce-large-round
 youtube.com##.ytp-chrome-top
 youtube.com##.ytp-endscreen-content
+
+chatgpt.com##.max-md\:hidden.bg-token-main-surface-primary.font-semibold.h-header-height.z-10.justify-between.items-center.flex.mb-1\.5.p-3.top-0.sticky.no-draggable-children.draggable
+chatgpt.com##.min-h-4
+chatgpt.com##.right-0.left-0.absolute
+www.perplexity.ai##.md\:block.w-\[300px\].hidden.right-md.bottom-md.fixed
+www.perplexity.ai##.isolate.col-span-4
 
 nypost.com##.breaking-news
 nypost.com##.comments-inline-cta
