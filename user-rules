@@ -61,6 +61,7 @@ x.com##[aria-label$="trending now" i]
 x.com##[aria-label$="who to follow" i]
 x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
 
+youtube.com###chat
 youtube.com##.ytp-ce-large-round
 youtube.com##.ytp-chrome-top
 youtube.com##.ytp-endscreen-content
