@@ -62,6 +62,7 @@ x.com##[aria-label$="subscribe to premium" i]
 x.com##[aria-label$="trending now" i]
 x.com##[aria-label$="who to follow" i]
 x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
+x.com##div[aria-label="Trending"] > div > div:has(> div > h2 > div > span:has-text(/^Live on X$/))
 
 youtube.com###chat
 youtube.com##.ytp-ce-large-round
