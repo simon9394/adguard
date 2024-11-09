@@ -59,6 +59,7 @@ slickdeals.net##div.sideGridBox
 slickdeals.net##div.slickdealsSidebar__container
 slickdeals.net##us-button
 
+x.com##[aria-label$="’s posts"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
 x.com##[aria-label$="relevant people" i]
 x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
 x.com##[aria-label$="subscribe to premium" i]
