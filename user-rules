@@ -1,8 +1,5 @@
 ! Title: user-rules
 
-##.jw-reset.jw-wrapper
-##.VideoPlayer.StickyVideoPlayer.dock
-
 duckduckgo.com##.footer
 duckduckgo.com##.has-preview.js-module--videos.module--carousel-videos.module--carousel.module
 duckduckgo.com##[data-layout="ad"]
