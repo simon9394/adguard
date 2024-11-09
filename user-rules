@@ -22,6 +22,7 @@ reddit.com##.w-full.masthead
 reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[slot="content"], #faceplate-tooltip
 reddit.com##shreddit-comment[author="AutoModerator"]
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\].nd\:visible.nd\:overflow-hidden
+reddit.com##xpromo-nsfw-blocking-modal:remove()
 
 !
 slickdeals.net##body:style(overflow: auto !important;)
