@@ -17,6 +17,10 @@ outlook.live.com##.LBktY > .GssDD
 outlook.live.com##.O3mR7
 outlook.live.com##.Ogt7j
 
+reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
+reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
+!
 reddit.com##.nd\:visible.hidden.community-highlight-carousel
 reddit.com##.w-full.masthead
 reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[slot="content"], #faceplate-tooltip
@@ -26,7 +30,6 @@ reddit.com##shreddit-comment[author="AutoModerator"]
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\].nd\:visible.nd\:overflow-hidden
 reddit.com##xpromo-nsfw-blocking-modal:remove()
 
-!
 slickdeals.net##body:style(overflow: auto !important;)
 slickdeals.net##div.bottomBarContainer
 slickdeals.net##div.sdModalOverlay
