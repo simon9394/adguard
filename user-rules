@@ -13,9 +13,8 @@ google.*##[id^="eob_"]
 www.google.com##.VEELad.nD2EKb
 ||accounts.google.com/gsi/*$xhr,script,3p
 
+outlook.live.com##.IjQyD.iIsOF.lHRXq.kk1xx
 outlook.live.com##.LBktY > .GssDD
-outlook.live.com##.O3mR7
-outlook.live.com##.Ogt7j
 
 reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
 reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
