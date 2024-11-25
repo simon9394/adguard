@@ -8,6 +8,7 @@ duckduckgo.com##[data-layout="images"]
 duckduckgo.com##[data-layout="news"]
 
 en.wikipedia.org###siteNotice
+en.wikipedia.org##.cn-fundraising
 
 google.*##.kSMK2
 google.*##[id^="eob_"]
