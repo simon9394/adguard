@@ -83,7 +83,7 @@ youtube.com###chat
 youtube.com##.ytp-ce-large-round
 youtube.com##.ytp-chrome-top
 youtube.com##.ytp-endscreen-content
-youtube.com##.ytd-popup-container.style-scope
+!youtube.com##.ytd-popup-container.style-scope #This prevents "Filters" from showing up on the screen.
 
 chatgpt.com##.max-md\:hidden.bg-token-main-surface-primary.font-semibold.h-header-height.z-10.justify-between.items-center.flex.mb-1\.5.p-3.top-0.sticky.no-draggable-children.draggable
 chatgpt.com##.min-h-4
