@@ -71,7 +71,7 @@ x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
 x.com##[aria-label$="subscribe to premium" i]
 x.com##[aria-label$="trending now" i]
 x.com##[aria-label$="who to follow" i]
-x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
+x.com##[aria-label="Timeline: Search timeline"]>div>:is([data-testid="cellInnerDiv"]:nth-child(-n+5):has(~[data-testid="cellInnerDiv"]:nth-child(6) [href$="&src=recent_search_click&f=user"]),[data-testid="cellInnerDiv"]:nth-child(6):has([href$="&src=recent_search_click&f=user"]),[data-testid="cellInnerDiv"]:nth-child(6):has([href$="&src=recent_search_click&f=user"])+div:not(:has(article)))x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
 x.com##a[href="/i/premium_sign_up"]
 x.com##a[href="/i/grok"]
 x.com##a[href="/i/verified-orgs-signup"]
