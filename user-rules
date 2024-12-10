@@ -28,6 +28,7 @@ reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[s
 reddit.com##+js(aeld, touchmove)
 reddit.com##alert-controller
 reddit.com##body:style(pointer-events:auto!important;)
+reddit.com##div.mt-md
 reddit.com##shreddit-comment[author="AutoModerator"]
 reddit.com##shreddit-gallery-carousel.block.h-\[210px\].nd\:visible.nd\:overflow-hidden
 reddit.com##xpromo-nsfw-blocking-modal:remove()
