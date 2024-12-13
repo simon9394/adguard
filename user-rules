@@ -1,5 +1,7 @@
 ! Title: user-rules
 ###cookie_modal
+##.jw-reset.jw-float-bar
+##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 
 duckduckgo.com##.footer
 duckduckgo.com##.has-preview.js-module--videos.module--carousel-videos.module--carousel.module
@@ -96,8 +98,8 @@ www.perplexity.ai##.isolate.col-span-4
 nypost.com##.breaking-news
 nypost.com##.comments-inline-cta
 nypost.com##.d-block-md.d-none.b-bottom--thick.b-bottom--black.b-bottom.p-bottom-half.module--m-top-none.module--promo.module
-nypost.com##.jw-reset.jw-float-bar
-nypost.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+!nypost.com##.jw-reset.jw-float-bar
+!nypost.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 nypost.com##.layout__grid--gap-30.layout__grid > .layout__item--sidebar.layout__item
 nypost.com##.layout__inner > .single__outbrain
 nypost.com##.membership-comments-container
