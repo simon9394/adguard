@@ -84,6 +84,7 @@ x.com##div[aria-label="Trending"] > div > div:has(> div > h2 > div > span:has-te
 x.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
 
 youtube.com###chat
+youtube.com##.ytmPaidContentOverlayHost
 youtube.com##.ytp-ce-large-round
 youtube.com##.ytp-chrome-top
 youtube.com##.ytp-endscreen-content
