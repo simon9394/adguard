@@ -26,6 +26,7 @@ reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_sele
 reddit.com##shreddit-async-loader[bundlename="app_selector"]
 !
 reddit.com##.nd\:visible.hidden.community-highlight-carousel
+reddit.com##.post-background-image-filter
 reddit.com##.w-full.masthead
 reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[slot="content"], #faceplate-tooltip
 reddit.com##+js(aeld, touchmove)
