@@ -98,6 +98,7 @@ chatgpt.com##.min-h-4
 chatgpt.com##.right-0.left-0.absolute
 www.perplexity.ai##.md\:block.w-\[300px\].hidden.right-md.bottom-md.fixed
 www.perplexity.ai##.isolate.col-span-4
+www.perplexity.ai##.w-full.absolute
 
 nypost.com##.breaking-news
 nypost.com##.comments-inline-cta
