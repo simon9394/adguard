@@ -3,8 +3,10 @@
 ##.jw-reset.jw-float-bar
 ##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
 
+duckduckgo.com##.E4_TKgKL7YzziY_dW6E9
 duckduckgo.com##.footer
 duckduckgo.com##.has-preview.js-module--videos.module--carousel-videos.module--carousel.module
+duckduckgo.com##.hoUWqHNnn8Kv_pLhPzPQ.wbUB0U7KMDyukXtzMd8Y
 duckduckgo.com##[data-layout="ad"]
 duckduckgo.com##[data-layout="images"]
 duckduckgo.com##[data-layout="news"]
@@ -88,6 +90,7 @@ x.com##a[href="/i/verified-orgs-signup"]
 x.com##div[aria-label="Trending"] > div > div:has(> div > h2 > div > span:has-text(/^Live on X$/))
 !
 x.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
+x.com##.r-3pj75a.r-1mmae3n.r-1ssbvtb.r-rs99b7.r-1q9bdsx.r-1kqtdi0.r-kemksi.r-1habvwh.css-175oi2r
 ||pbs.twimg.com/profile_images/*_normal.jpg$image,domain=grok.com
 
 youtube.com###chat
