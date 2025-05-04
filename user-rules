@@ -90,7 +90,6 @@ x.com##a[href="/i/premium_sign_up"]
 x.com##a[href="/i/verified-orgs-signup"]
 x.com##div[aria-label="Trending"] > div > div:has(> div > h2 > div > span:has-text(/^Live on X$/))
 !
-x.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
 ||pbs.twimg.com/profile_images/*_normal.jpg$image,domain=grok.com
 
 youtube.com###chat
