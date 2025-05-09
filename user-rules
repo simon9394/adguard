@@ -99,13 +99,6 @@ youtube.com##.ytp-chrome-top
 youtube.com##.ytp-endscreen-content
 !youtube.com##.ytd-popup-container.style-scope #This prevents "Filters" from showing up on the screen.
 
-chatgpt.com##.max-md\:hidden.bg-token-main-surface-primary.font-semibold.h-header-height.z-10.justify-between.items-center.flex.mb-1\.5.p-3.top-0.sticky.no-draggable-children.draggable
-chatgpt.com##.min-h-4
-chatgpt.com##.right-0.left-0.absolute
-www.perplexity.ai##.md\:block.w-\[300px\].hidden.right-md.bottom-md.fixed
-www.perplexity.ai##.isolate.col-span-4
-www.perplexity.ai##.w-full.absolute
-
 nypost.com##.breaking-news
 nypost.com##.comments-inline-cta
 nypost.com##.d-block-md.d-none.b-bottom--thick.b-bottom--black.b-bottom.p-bottom-half.module--m-top-none.module--promo.module
