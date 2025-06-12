@@ -91,7 +91,7 @@ x.com##a[href="/i/premium_sign_up"]
 x.com##a[href="/i/verified-orgs-signup"]
 x.com##div[aria-label="Trending"] > div > div:has(> div > h2 > div > span:has-text(/^Live on X$/))
 !
-||pbs.twimg.com/profile_images/*_normal.jpg$image,domain=grok.com
+pbs.twimg.com/profile_images/*_normal.jpg$image,domain=grok.com
 
 youtube.com###chat
 youtube.com##.ytmPaidContentOverlayHost
