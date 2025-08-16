@@ -14,7 +14,7 @@ duckduckgo.com##[data-layout="news"]
 en.wikipedia.org###siteNotice
 en.wikipedia.org##.cn-fundraising
 
-gemini.google.com##.sign-in-nudge.ng-star-inserted
+gemini.google.com##sign-in-nudge.ng-star-inserted
 google.*##.kSMK2
 google.*##[id^="eob_"]
 google.com###google-hats-survey
