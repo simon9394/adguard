@@ -1,195 +1,36 @@
-! Title: user-rules
-###cookie_modal
-##.jw-reset.jw-float-bar
-##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
-
-duckduckgo.com##.E4_TKgKL7YzziY_dW6E9
 duckduckgo.com##.footer
-duckduckgo.com##.has-preview.js-module--videos.module--carousel-videos.module--carousel.module
-duckduckgo.com##.hoUWqHNnn8Kv_pLhPzPQ.wbUB0U7KMDyukXtzMd8Y
-duckduckgo.com##[data-layout="ad"]
-duckduckgo.com##[data-layout="images"]
-duckduckgo.com##[data-layout="news"]
-
-en.wikipedia.org###siteNotice
-en.wikipedia.org##.cn-fundraising
-
-gemini.google.com##sign-in-nudge.ng-star-inserted
-google.*##.kSMK2
-google.*##[id^="eob_"]
-google.com###google-hats-survey
-google.com##.VEELad.nD2EKb
-||accounts.google.com/gsi/*$xhr,script,3p
-
-outlook.live.com##.fui-Card
-outlook.live.com##.IjQyD.iIsOF.lHRXq.kk1xx
-outlook.live.com##.LBktY > .GssDD
-
-reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
-reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
-reddit.com##shreddit-async-loader[bundlename="app_selector"]
-!
-reddit.com##.nd\:visible.hidden.community-highlight-carousel
-reddit.com##.post-background-image-filter
-reddit.com##.w-full.masthead
-reddit.com##:is([data-id="community-hover-card"],[data-id="user-hover-card"])>[slot="content"], #faceplate-tooltip
-reddit.com##+js(aeld, touchmove)
-reddit.com##alert-controller
-reddit.com##body:style(pointer-events:auto!important;)
-reddit.com##div.mt-md
-reddit.com##shreddit-comment[author="AutoModerator"]
-reddit.com##shreddit-gallery-carousel.block.h-\[210px\].nd\:visible.nd\:overflow-hidden
-reddit.com##xpromo-nsfw-blocking-modal:remove()
-
-slickdeals.net##body:style(overflow: auto !important;)
-slickdeals.net##div.bottomBarContainer
-slickdeals.net##div.sdModalOverlay
-!
-slickdeals.net##.announcementBar
-slickdeals.net##.bp-p-trendingStores
-slickdeals.net##.commentsSectionAuthBanner
-slickdeals.net##.dealActions
-slickdeals.net##.dealAlertBar
-slickdeals.net##.dealDetailsPage__sidebar.dealDetailsSidebar
-slickdeals.net##.dealDetailsSidebar__container
-slickdeals.net##.dealDetailsStickyBar
-slickdeals.net##.dealVotingToolTip.slickdealsTooltip__container
-slickdeals.net##.displayAdContainer
-slickdeals.net##.frontpageMobileRecommendationCarousel
-slickdeals.net##.frontpageRecommendationCarousel
-slickdeals.net##.frontPage__jfyCarousel
-slickdeals.net##.frontpageMobileRecommendationCarousel
-slickdeals.net##.frontpageRecommendationCarousel
-slickdeals.net##.justForYouCarousel
-slickdeals.net##.megaBanner
-slickdeals.net##.modal-modern.modal
-slickdeals.net##.prevalidate.newsletterSignUp
-slickdeals.net##.sectionHeader--carousel.sectionHeader
-slickdeals.net##.slickdealsFooter
-slickdeals.net##.slickdealsHeader__disclaimer
-slickdeals.net##.slickdealsHeader__iconSection
-slickdeals.net##.stickyRightRailWrapper
-slickdeals.net##.topCategories
-slickdeals.net##.welcomeToast
-slickdeals.net##[id^="dynamicAdSlot"]
-slickdeals.net##[id^="wrapperAdSlot"]
-slickdeals.net##div.dealDetailsTabs__tab:last-child
-slickdeals.net##div.headerBannerManager__reserveAnnouncementBar
-slickdeals.net##div.relatedDeals
-slickdeals.net##div.sideGridBox
-slickdeals.net##div.slickdealsSidebar__container
-slickdeals.net##us-button
-
-x.com##[aria-label$="’s posts"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
-x.com##[aria-label$="relevant people" i]
-x.com##[aria-label$="subscribe to premium to write your own longer posts" i]
-x.com##[aria-label$="subscribe to premium" i]
-x.com##[aria-label$="trending now" i]
-x.com##[aria-label$="who to follow" i]
-x.com##+js(json-prune-xhr-response, data.home.home_timeline_urt.instructions.[].entries.{-}.content.header, , /HomeTimeline)
-x.com##[aria-label="Timeline: Search timeline"]>div>:is([data-testid="cellInnerDiv"]:nth-child(-n+5):has(~[data-testid="cellInnerDiv"]:nth-child(6) [href$="&src=recent_search_click&f=user"]),[data-testid="cellInnerDiv"]:nth-child(6):has([href$="&src=recent_search_click&f=user"]),[data-testid="cellInnerDiv"]:nth-child(6):has([href$="&src=recent_search_click&f=user"])+div:not(:has(article)))
-x.com##a[href="/i/premium_sign_up"]
-x.com##a[href="/i/verified-orgs-signup"]
-x.com##div[aria-label="Trending"] > div > div:has(> div > h2 > div > span:has-text(/^Live on X$/))
-!
-pbs.twimg.com/profile_images/*_normal.jpg$image,domain=grok.com
-
-youtube.com###chat
-youtube.com##.ytmPaidContentOverlayHost
-youtube.com##.ytp-ce-large-round
-youtube.com##.ytp-chrome-top
-youtube.com##.ytp-endscreen-content
-!youtube.com##.ytd-popup-container.style-scope #This prevents "Filters" from showing up on the screen.
-
-nypost.com##.breaking-news
-nypost.com##.comments-inline-cta
-nypost.com##.d-block-md.d-none.b-bottom--thick.b-bottom--black.b-bottom.p-bottom-half.module--m-top-none.module--promo.module
-!nypost.com##.jw-reset.jw-float-bar
-!nypost.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
-nypost.com##.layout__grid--gap-30.layout__grid > .layout__item--sidebar.layout__item
-nypost.com##.layout__inner > .single__outbrain
-nypost.com##.membership-comments-container
-nypost.com##.membership-reactions-module
-nypost.com##.more-stories
-nypost.com##.nyp-zephr-flyout--left.nyp-zephr-flyout.zephr-component
-nypost.com##.recirc--enabled.recirc--outbrain.recirc
-nypost.com##.recirc--enabled.recirc--trending.recirc
-nypost.com##.single__footer
+duckduckgo.com##.related-searches
+macserialjunkie.com##.phpbb_announcement
+nypost.com##.in-line-column
+nypost.com##.module--precede-with-border
+nypost.com##.recirc--enabled
 nypost.com##.single__sidebar
-nypost.com##.site-container.breaking-news-container
-nypost.com##.site-footer
-nypost.com##.site-header__wrapper
-nypost.com##.wp-block-nypost-editor-newsletter.aligncenter.inline-module--newsletter.inline-module.single__inline-module
-nypost.com##.wp-block-nypost-editor-primary-tag.aligncenter.single__inline-module
-nypost.com##aside.single__inline-module.alignleft
-nypost.com##aside.single__inline-module.alignright
-nypost.com##div.in-line-column.wp-caption.alignleft
-
-mdbg.net###usage-tips
-mdbg.net##.logo
-mdbg.net##.nonprintable.panel
-mdbg.net/*/banner*.png$image
-yabla.com##.promo
-
-dictionary.cambridge.org##.lmt-10.lt2s.hfr-s
-dictionary.cambridge.org##.lpb-20.lt2s.hfr-s
-dictionary.cambridge.org##.lp-s_t-0.lp-s_25.lpt-15.lp-10
-dictionary.cambridge.org##.lp-s_t-15.lp-s_25.cf.han.bh.pr
-dictionary.cambridge.org##.z1.lp-m_r-20.lp-m_l-20.lp-s_t-15.lp-xs_t-10.lmax.lpr-15.lpl-15 > .x
-www.collinsdictionary.com##.br.cobuild.definitions.content > div.hom > .sense > .mpuslot_b-container
-www.collinsdictionary.com##.cB-hook.cB
-www.collinsdictionary.com##.cB-q.cB
-www.collinsdictionary.com##.cB-u.cB
-www.collinsdictionary.com##.columns
-www.collinsdictionary.com##.icon-Share.share-button
-www.collinsdictionary.com##.jsActive.new-from-collins.carousel
-www.collinsdictionary.com##.res_cell_center_content.dc > .carousel-title.h2
+slickdeals.net##.announcementBar
+slickdeals.net##.communityVotingBar
+slickdeals.net##.dealDetailsSidebar
+slickdeals.net##.dealDetailsStickyBar
+slickdeals.net##.frontpageRecommendationCarousel
+slickdeals.net##.leaveACommentV2
+slickdeals.net##.relatedDeals
+slickdeals.net##.relatedSearches
+slickdeals.net##.searchPage__headerContent
+slickdeals.net##.sideGridBox
+slickdeals.net##.slickdealsSidebar
+slickdeals.net##.usersnapButton
+slickdeals.net##.welcomeToast
+www.collinsdictionary.com##.cB-hook
+www.collinsdictionary.com##.cB-q
+www.collinsdictionary.com##.cB-u
+www.collinsdictionary.com##.cB-v
+www.collinsdictionary.com##.pB-quiz
 www.collinsdictionary.com##.res_cell_right
 www.collinsdictionary.com##.specialQuiz
-www.collinsdictionary.com##div.fc-ab-root
-www.collinsdictionary.com##footer
-www.dictionary.com##.a_Z1cA3pMYySwQsdWv5Q
-www.dictionary.com##.DictionaryResultQuizModule-module_root_a9fd3034573686c75b39.ResultsCard-module_root_abb10bc0f52dca092ec5
-www.dictionary.com##.dKPJOGfILqWFODkvnJEd
-www.dictionary.com##.IDf5D4Mo7pRyWwino8y4.HjmF_6uYqSRDdE7yX2Wy > aside
-www.dictionary.com##.jVP1dndWm_O5ernARXUz
-www.dictionary.com##.m5OdYzcMex7CPXKWlUOj
-www.dictionary.com##.MMaaxw9g8UQaSLzBAbKf
-www.dictionary.com##.w_9jaXRgcsGcQwUIj1yG
-www.ldoceonline.com##.carousel
-www.ldoceonline.com##.cols
-www.ldoceonline.com##.home_content
-www.ldoceonline.com##.responsive_cell2
-www.ldoceonline.com##.responsive_row.footer
-www.merriam-webster.com##.additional-content-area
-www.merriam-webster.com##.content-section-with-header.more-from.widget
-www.merriam-webster.com##.global-footer
-www.merriam-webster.com##.home-redesign-layout
-www.merriam-webster.com##.non-sticky.fixed-wrapper
-www.merriam-webster.com##.position-relative.w-100.bg-mw-black.container-top-ads
-www.oxfordlearnersdictionaries.com##.dictionary_banner
-www.oxfordlearnersdictionaries.com##.dictlink-g
-www.oxfordlearnersdictionaries.com##.oup-footer
-www.oxfordlearnersdictionaries.com##.parallax-container
-www.oxfordlearnersdictionaries.com##.responsive_row > .responsive_container
-www.oxfordlearnersdictionaries.com##.row_static_items.row
-www.oxfordlearnersdictionaries.com##.topic.wotd-box
-www.thefreedictionary.com##.content-holder > aside
-www.thefreedictionary.com##.footer-bottom
-www.thefreedictionary.com##.footer-top
-www.thefreedictionary.com##.hpCont
-www.thefreedictionary.com##.sticky.fixed-block
-www.thefreedictionary.com##.w2 > div > div
-www.thefreedictionary.com##div.width34.block
-www.thefreedictionary.com##div.width61.block
-www.thesaurus.com##.a_Z1cA3pMYySwQsdWv5Q
-www.thesaurus.com##.cKgiw7zUAwMz0y2d4GZQ.xgsODERll3Mk7WSiWnhH
-www.thesaurus.com##.Cl8rAJN4wBETC2TTA2vN
-www.thesaurus.com##.CommonQuizModule-module_root_f1ed2e657e5ba7533a2a
-www.thesaurus.com##.dKPJOGfILqWFODkvnJEd
-www.thesaurus.com##.F61gOZt5DZItY6Cel1MX
-www.thesaurus.com##.MMaaxw9g8UQaSLzBAbKf
-www.thesaurus.com##.wqefwiyMW90zdJbSv7Hs
-www.thesaurus.com##.YWCQRF_7R7nYFZ4IHkwk
-www.wordreference.com##.info
-www.wordreference.com##.rightcolumn
+www.reddit.com##.community-highlight-carousel
+www.reddit.com##.masthead
+www.reddit.com##.recommendation-overlay
+www.reddit.com##.right-sidebar
+x.com##[aria-label="Timeline: Trending now"]
+x.com##[aria-label="Who to follow"]
+x.com##[data-testid="sidebarColumn"]
+x.com##[data-testid="super-upsell-UpsellCardRenderProperties"]
+
