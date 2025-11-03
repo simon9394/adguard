@@ -11,6 +11,7 @@ slickdeals.net##.announcementBar
 slickdeals.net##.communityVotingBar
 slickdeals.net##.dealDetailsSidebar
 slickdeals.net##.dealDetailsStickyBar
+slickdeals.net##.displayAdContainer
 slickdeals.net##.extensionPromoBanner
 slickdeals.net##.frontpageMobileRecommendationCarousel
 slickdeals.net##.frontpageRecommendationCarousel
@@ -20,7 +21,9 @@ slickdeals.net##.relatedDeals
 slickdeals.net##.relatedSearches
 slickdeals.net##.searchPage__headerContent
 slickdeals.net##.sideGridBox
+slickdeals.net##.slickdealsHeader__disclaimer
 slickdeals.net##.slickdealsHeader__occassionTakeoverSection
+slickdeals.net##.slickdealsHeaderSubNav
 slickdeals.net##.slickdealsSidebar
 slickdeals.net##.usersnapButton
 slickdeals.net##.welcomeToast
