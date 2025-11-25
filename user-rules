@@ -1,5 +1,10 @@
 duckduckgo.com##.footer
 duckduckgo.com##.related-searches
+finviz.com##.ic-banner
+finviz.com##.notice-message
+finviz.com##.mx-auto.w-full.justify-center.items-center.flex.overflow-hidden.relative
+finviz.com##.quote_stocktwits
+finviz.com##.quote-statements-elite-subscribe
 macserialjunkie.com##.phpbb_announcement
 nypost.com##.in-line-column
 nypost.com##.inline-module__inner
@@ -7,6 +12,8 @@ nypost.com##.module--precede-with-border
 nypost.com##.recirc--enabled
 nypost.com##.single__sidebar
 nypost.com##.wp-block
+nypost.com##.wp-block-nyp-editor-universal-promo
+outlook.live.com##.GssDD
 slickdeals.net##.announcementBar
 slickdeals.net##.communityVotingBar
 slickdeals.net##.dealDetailsSidebar
