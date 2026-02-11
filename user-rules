@@ -1,20 +1,15 @@
 duckduckgo.com##.footer
 duckduckgo.com##.related-searches
-finviz.com##.ic-banner
-finviz.com##.notice-message
-finviz.com##.mx-auto.w-full.justify-center.items-center.flex.overflow-hidden.relative
-finviz.com##.quote_stocktwits
-finviz.com##.quote-statements-elite-subscribe
+
 macserialjunkie.com##.phpbb_announcement
+
 nypost.com##.in-line-column
 nypost.com##.inline-module__inner
 nypost.com##.module--precede-with-border
 nypost.com##.recirc--enabled
 nypost.com##.single__sidebar
-nypost.com##.upb-content-wrapper
 nypost.com##.wp-block
-nypost.com##.wp-block-nyp-editor-universal-promo
-outlook.live.com##.GssDD
+
 slickdeals.net##.announcementBar
 slickdeals.net##.baseBanner
 slickdeals.net##.communityVotingBar
@@ -32,12 +27,14 @@ slickdeals.net##.relatedDeals
 slickdeals.net##.relatedSearches
 slickdeals.net##.searchPage__headerContent
 slickdeals.net##.sideGridBox
+slickdeals.net##.slickdealsHeaderSubNav
 slickdeals.net##.slickdealsHeader__disclaimer
 slickdeals.net##.slickdealsHeader__occassionTakeoverSection
-slickdeals.net##.slickdealsHeaderSubNav
 slickdeals.net##.slickdealsSidebar
 slickdeals.net##.usersnapButton
+slickdeals.net##.webCollectionCarousel
 slickdeals.net##.welcomeToast
+
 www.collinsdictionary.com###ad_topslot
 www.collinsdictionary.com###onetrust-consent-sdk
 www.collinsdictionary.com###stickyslot_container
@@ -52,12 +49,13 @@ www.collinsdictionary.com##.socialButtons
 www.collinsdictionary.com##.specialQuiz
 www.collinsdictionary.com##[data-google-container-id]
 www.collinsdictionary.com##[data-google-query-id]
+
 www.reddit.com##.community-highlight-carousel
 www.reddit.com##.masthead
 www.reddit.com##.recommendation-overlay
 www.reddit.com##.right-sidebar
+
 x.com##[aria-label="Timeline: Trending now"]
 x.com##[aria-label="Who to follow"]
 x.com##[data-testid="sidebarColumn"]
 x.com##[data-testid="super-upsell-UpsellCardRenderProperties"]
-
