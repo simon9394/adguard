@@ -1,5 +1,9 @@
+||ssl-images-amazon.com^*Herotator$script
+amazon.*###desktop-banner
+
 vault.bitwarden.com##.tw-fixed.cdk-overlay-backdrop
 vault.bitwarden.com##app-upgrade-account
+vault.bitwarden.com##navigation-product-switcher
 
 duckduckgo.com##.footer
 duckduckgo.com##.related-searches
@@ -15,11 +19,16 @@ nypost.com##.layout__item--sidebar.layout__item
 nypost.com##.module--precede-with-border
 nypost.com##.recirc--enabled
 nypost.com##.single__sidebar
+nypost.com##.site-header
 nypost.com##.wp-block-group
 nypost.com##.wp-block-heading
 nypost.com##.wp-block-nyp-editor-universal-promo
 
 outlook.live.com##.GssDD
+
+www.perplexity.ai##.absolute.bottom-md
+www.perplexity.ai##.h-bannerHeight
+www.perplexity.ai##.gap-sm.p-md
 
 slickdeals.net##.announcementBar
 slickdeals.net##.baseBanner
