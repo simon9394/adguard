@@ -84,6 +84,7 @@ www.reddit.com##.left-sidebar
 www.reddit.com##.recommendation-overlay
 www.reddit.com##.right-sidebar
 
+x.com##:is([aria-label="Timeline: Your Home Timeline"],[aria-label^="Timeline:"][aria-label$="posts"]) div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"],>div>button))
 x.com##[aria-label="Timeline: Trending now"]
 x.com##[aria-label="Who to follow"]
 x.com##[data-testid="sidebarColumn"]
