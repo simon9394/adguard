@@ -84,8 +84,39 @@ www.reddit.com##.left-sidebar
 www.reddit.com##.recommendation-overlay
 www.reddit.com##.right-sidebar
 
+! X - Clean Timelines - See Only Tweets/Posts, No Inserts
 x.com##:is([aria-label="Timeline: Your Home Timeline"],[aria-label^="Timeline:"][aria-label$="posts"]) div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"],>div>button))
-x.com##[aria-label="Timeline: Trending now"]
-x.com##[aria-label="Who to follow"]
-x.com##[data-testid="sidebarColumn"]
-x.com##[data-testid="super-upsell-UpsellCardRenderProperties"]
+Analytics
+! X - Analytics/Views button on tweets
+x.com##article [role=group] [href$="/analytics"]:upward(div:not(:only-child))
+! X - Views - the new placement in conversation view
+x.com##[aria-label="Timeline: Conversation"] [href*="/status/"] ~ span
+Interaction spam
+! X - [User] Retweeted/Reposted (excludes own retweets)
+x.com##[aria-label^="Timeline:"] [data-testid="cellInnerDiv"]:has([d^="M4.75 3.79l4.603"]):not(:has([data-testid="unretweet"])):style(border: yellow dotted 5px !important)
+Others
+! X - "Official" label on posts and profiles
+x.com##[src$="/verified_stroke_1.png"]:upward(div:not(:empty)+div:last-of-type):style(border: dotted 2px grey !important;)
+! X - Like and Retweet counts // Remove ` [data-testid="app-text-transition-container"]` to hide entire buttons
+x.com##[data-testid="retweet"] [data-testid="app-text-transition-container"], [data-testid="like"] [data-testid="app-text-transition-container"]
+! X - Discover more / More Tweets - Conversation view suggestions
+x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
+! X - Hidden posts - hide "Show additional replies" or "This tweet is from an account you've blocked/muted"
+x.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] article [role="button"]:not([aria-label]):upward([data-testid="cellInnerDiv"])
+Sidebar
+! X - Get verified
+x.com##[aria-label="Get Verified"]    
+! X - Live spaces
+x.com##[data-testid="sidebarColumn"] [data-testid="placementTracking"]:last-child:upward(1) 
+! X - Sidebar - Topics to follow
+x.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+! X - Sidebar - What's happening/Trending now/Trends for you
+x.com##[aria-label$="trending now" i]
+! X - Sidebar - Who to follow/You might like
+x.com##[aria-label="who to follow" i]:upward(1)
+! X - Login dialog
+x.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
+x.com##html:style(overflow: auto !important;)
+Source: https://www.reddit.com/r/uBlockOrigin/comments/sew1rn/twittercom_enforcingloginpopup/hv99m7j/
+! X - App suggestion overlay
+x.com###layers>div:last-of-type:has-text(Switch to the app)
