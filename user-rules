@@ -27,6 +27,7 @@ nypost.com##.site-header
 nypost.com##.wp-block-group
 nypost.com##.wp-block-heading
 nypost.com##.wp-block-nyp-editor-universal-promo
+nypost.com##[data-module="curated-promo-module"]
 
 outlook.live.com##.GssDD
 
