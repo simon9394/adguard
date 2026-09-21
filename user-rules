@@ -1,5 +1,6 @@
 ||ssl-images-amazon.com^*Herotator$script
 amazon.*###desktop-banner
+www.amazon.com##[href^="/music/unlimited/"]
 
 vault.bitwarden.com##.tw-fixed.cdk-overlay-backdrop
 vault.bitwarden.com##app-upgrade-account
