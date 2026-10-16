@@ -1,16 +1,57 @@
+[Adblock Plus 2.0]
+! Title: Personal Custom Filters
+
+! --------------------------------------------------
+! Network Blocklist (Stops connections & Safari cache)
+! --------------------------------------------------
+||inmobi.com^
+||doubleclick.net^
+||googlesyndication.com^
+||scorecardresearch.com^
+||criteo.com^
+||criteo.net^
+||outbrain.com^
+||taboola.com^
+||rubiconproject.com^
+||pubmatic.com^
+||openx.net^
+||casalemedia.com^
+||adnxs.com^
+||amazon-adsystem.com^
+||adroll.com^
+
+! --------------------------------------------------
+! Script & Resource Rules
+! --------------------------------------------------
 ||ssl-images-amazon.com^*Herotator$script
+
+! --------------------------------------------------
+! Amazon
+! --------------------------------------------------
 amazon.*###desktop-banner
 www.amazon.com##[href^="/music/unlimited/"]
 
+! --------------------------------------------------
+! Bitwarden
+! --------------------------------------------------
 vault.bitwarden.com##.tw-fixed.cdk-overlay-backdrop
 vault.bitwarden.com##app-upgrade-account
 vault.bitwarden.com##navigation-product-switcher
 
+! --------------------------------------------------
+! DuckDuckGo
+! --------------------------------------------------
 duckduckgo.com##.footer
 duckduckgo.com##.related-searches
 
+! --------------------------------------------------
+! Macserialjunkie
+! --------------------------------------------------
 macserialjunkie.com##.phpbb_announcement
 
+! --------------------------------------------------
+! NYPost
+! --------------------------------------------------
 nypost.com##.breaking-news--commerce
 nypost.com##.cnx-content-wrapper
 nypost.com##.cnx-video-container
@@ -33,12 +74,21 @@ nypost.com##.wp-block-heading
 nypost.com##.wp-block-nyp-editor-universal-promo
 nypost.com##[data-module="curated-promo-module"]
 
+! --------------------------------------------------
+! Outlook
+! --------------------------------------------------
 outlook.live.com##.GssDD
 
+! --------------------------------------------------
+! Perplexity
+! --------------------------------------------------
 www.perplexity.ai##.absolute.bottom-md
 www.perplexity.ai##.h-bannerHeight
 www.perplexity.ai##.gap-sm.p-md
 
+! --------------------------------------------------
+! Slickdeals
+! --------------------------------------------------
 slickdeals.net##.announcementBar
 slickdeals.net##.baseBanner
 slickdeals.net##.bigDealTileHorizontal
@@ -69,6 +119,9 @@ slickdeals.net##.webCollectionCarousel
 slickdeals.net##.welcomeToast
 slickdeals.net##[aria-modal]
 
+! --------------------------------------------------
+! Collins Dictionary
+! --------------------------------------------------
 www.collinsdictionary.com###ad_topslot
 www.collinsdictionary.com###onetrust-consent-sdk
 www.collinsdictionary.com###stickyslot_container
@@ -84,6 +137,9 @@ www.collinsdictionary.com##.specialQuiz
 www.collinsdictionary.com##[data-google-container-id]
 www.collinsdictionary.com##[data-google-query-id]
 
+! --------------------------------------------------
+! Reddit
+! --------------------------------------------------
 www.reddit.com##.community-highlight-carousel
 www.reddit.com##.left-sidebar
 www.reddit.com##.recommendation-overlay
