@@ -21,6 +21,12 @@
 ||adroll.com^
 
 ! --------------------------------------------------
+! General
+! --------------------------------------------------
+twittervideodownloader.com##.bd-footer
+twittervideodownloader.com##.pb-5
+
+! --------------------------------------------------
 ! Script & Resource Rules
 ! --------------------------------------------------
 ||ssl-images-amazon.com^*Herotator$script
@@ -29,7 +35,7 @@
 ! Amazon
 ! --------------------------------------------------
 amazon.*###desktop-banner
-www.amazon.com##[href^="/music/unlimited/"]
+amazon.com##[href^="/music/unlimited/"]
 
 ! --------------------------------------------------
 ! Bitwarden
@@ -43,6 +49,12 @@ vault.bitwarden.com##navigation-product-switcher
 ! --------------------------------------------------
 duckduckgo.com##.footer
 duckduckgo.com##.related-searches
+
+! --------------------------------------------------
+! Facebook
+! --------------------------------------------------
+facebook.com##.x1xzczws
+facebook.com##div.html-div:has(a[href^="https://l.facebook.com/l.php?"])
 
 ! --------------------------------------------------
 ! Macserialjunkie
