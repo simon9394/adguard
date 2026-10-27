@@ -2,25 +2,6 @@
 ! Title: Personal Custom Filters
 
 ! --------------------------------------------------
-! Network Blocklist (Stops connections & Safari cache)
-! --------------------------------------------------
-||inmobi.com^
-||doubleclick.net^
-||googlesyndication.com^
-||scorecardresearch.com^
-||criteo.com^
-||criteo.net^
-||outbrain.com^
-||taboola.com^
-||rubiconproject.com^
-||pubmatic.com^
-||openx.net^
-||casalemedia.com^
-||adnxs.com^
-||amazon-adsystem.com^
-||adroll.com^
-
-! --------------------------------------------------
 ! General
 ! --------------------------------------------------
 twittervideodownloader.com##.bd-footer
