@@ -38,9 +38,9 @@ facebook.com##.x1xzczws
 facebook.com##div.html-div:has(a[href^="https://l.facebook.com/l.php?"])
 
 ! --------------------------------------------------
-! Macserialjunkie
+! Google
 ! --------------------------------------------------
-macserialjunkie.com##.phpbb_announcement
+||accounts.google.com/gsi/iframe/select$subdocument
 
 ! --------------------------------------------------
 ! NYPost
