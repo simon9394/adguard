@@ -26,6 +26,11 @@ vault.bitwarden.com##app-upgrade-account
 vault.bitwarden.com##navigation-product-switcher
 
 ! --------------------------------------------------
+! ChatGPT
+! --------------------------------------------------
+chatgpt.com##[data-testid*="modal"]
+
+! --------------------------------------------------
 ! DuckDuckGo
 ! --------------------------------------------------
 duckduckgo.com##.footer
